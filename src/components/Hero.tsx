@@ -3,6 +3,10 @@
 import Link from "next/link";
 import Image from "next/image";
 
+// next/image does NOT apply basePath to its src when images.unoptimized is true,
+// so we prefix manually. Empty string when serving from a root/custom domain.
+const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
 const BLUE = "#4a9ed4";
 const GRAY = "#8e9ea8";
 
@@ -38,7 +42,7 @@ export default function Hero({ lang = "en" }: { lang?: "en" | "he" }) {
         }}
       >
         <Image
-          src="/images/yizhak-bot.png"
+          src={`${BASE_PATH}/images/yizhak-bot.png`}
           alt="Yizhak Bot"
           fill
           priority

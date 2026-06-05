@@ -9,6 +9,9 @@ const nextConfig: NextConfig = {
   trailingSlash: true,
   basePath: repoBasePath,
   assetPrefix: repoBasePath,
+  // Exposed to client code that must prefix asset URLs manually (e.g. next/image
+  // with unoptimized images, which doesn't auto-apply basePath).
+  env: { NEXT_PUBLIC_BASE_PATH: repoBasePath },
   images: {
     unoptimized: true,
   },

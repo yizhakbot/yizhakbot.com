@@ -66,7 +66,7 @@ export default function Sidebar({ lang = "en", bioOnly = false }: SidebarProps) 
                 <li key={cat}>
                   <Link href={`/articles/${cat}`} className="text-primary hover:underline text-sm">
                     {t(categoryLabels[cat].en, categoryLabels[cat].he)}
-                    <span className="text-text-light ml-1">({count})</span>
+                    <span className="text-text-light ms-1">({count})</span>
                   </Link>
                 </li>
               );

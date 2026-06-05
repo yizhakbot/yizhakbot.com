@@ -52,7 +52,7 @@ export default function Header({ lang = "en", onLangChange }: HeaderProps) {
                   <ChevronDown className="w-3 h-3" />
                 </button>
                 <div
-                  className={`absolute top-full left-0 pt-1 z-50 transition-all duration-150 ${
+                  className={`absolute top-full ${lang === "he" ? "right-0" : "left-0"} pt-1 z-50 transition-all duration-150 ${
                     articlesOpen ? "opacity-100 pointer-events-auto" : "opacity-0 pointer-events-none"
                   }`}
                   onMouseEnter={() => setArticlesOpen(true)}
@@ -121,7 +121,7 @@ export default function Header({ lang = "en", onLangChange }: HeaderProps) {
                   {t(item.label, item.labelHe)}
                 </Link>
                 {item.children && (
-                  <div className="pl-4 space-y-1">
+                  <div className="ps-4 space-y-1">
                     {item.children.map((child) => (
                       <Link
                         key={child.href}

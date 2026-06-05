@@ -30,12 +30,14 @@ export default function Hero({ lang = "en" }: { lang?: "en" | "he" }) {
         overflow: "hidden",
       }}
     >
-      {/* Photo — spans the full section height, pinned to right edge */}
+      {/* Photo — spans the full section height, pinned to the edge opposite the
+          buttons. In RTL the buttons move to the right, so the photo flips left. */}
       <div
         style={{
           position: "absolute",
           top: 0,
-          right: 0,
+          right: he ? "auto" : 0,
+          left: he ? 0 : "auto",
           bottom: 0,
           width: 180,
           pointerEvents: "none",
@@ -46,7 +48,7 @@ export default function Hero({ lang = "en" }: { lang?: "en" | "he" }) {
           alt="Yizhak Bot"
           fill
           priority
-          style={{ objectFit: "contain", objectPosition: "right bottom" }}
+          style={{ objectFit: "contain", objectPosition: he ? "left bottom" : "right bottom" }}
         />
       </div>
 
@@ -73,7 +75,7 @@ export default function Hero({ lang = "en" }: { lang?: "en" | "he" }) {
                 textDecoration: "none",
                 lineHeight: 1.45,
                 padding: "8px 4px",
-                borderRight: i < 2 ? "1px solid rgba(255,255,255,0.28)" : "none",
+                borderInlineStart: i > 0 ? "1px solid rgba(255,255,255,0.28)" : "none",
               }}
               onMouseOver={(e) => (e.currentTarget.style.filter = "brightness(0.88)")}
               onMouseOut={(e)  => (e.currentTarget.style.filter = "brightness(1)")}
@@ -88,8 +90,8 @@ export default function Hero({ lang = "en" }: { lang?: "en" | "he" }) {
         <div
           style={{
             flex: 1,
-            paddingLeft: 22,
-            paddingRight: 188,          /* leave room for photo */
+            paddingInlineStart: 22,
+            paddingInlineEnd: 188,      /* leave room for photo on the far side */
             display: "flex",
             flexDirection: "column",
             justifyContent: "center",
@@ -100,7 +102,7 @@ export default function Hero({ lang = "en" }: { lang?: "en" | "he" }) {
             <span style={{ background: BLUE, color: "#fff", padding: "5px 16px", fontSize: 17, fontWeight: 700, whiteSpace: "nowrap" }}>
               {he ? "יצחק בוט" : "Yizhak Bot"}
             </span>
-            <span style={{ background: GRAY, color: "#fff", padding: "5px 16px", fontSize: 17, fontWeight: 400, marginLeft: 3, whiteSpace: "nowrap" }}>
+            <span style={{ background: GRAY, color: "#fff", padding: "5px 16px", fontSize: 17, fontWeight: 400, marginInlineStart: 3, whiteSpace: "nowrap" }}>
               {he ? "הבלוג" : "The Blog"}
             </span>
           </div>

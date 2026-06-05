@@ -1,15 +1,22 @@
+"use client";
+
 import Link from "next/link";
+import { useLang } from "./LangProvider";
 
 const navLinks = [
-  { label: "Home",    href: "/" },
-  { label: "About",   href: "/about" },
-  { label: "Articles",href: "/articles" },
-  { label: "Contact", href: "/contact" },
+  { label: "Home", labelHe: "בית", href: "/" },
+  { label: "About", labelHe: "אודות", href: "/about" },
+  { label: "Articles", labelHe: "מאמרים", href: "/articles" },
+  { label: "Contact", labelHe: "צור קשר", href: "/contact" },
 ];
 
 export default function Footer() {
+  const { lang } = useLang();
+  const he = lang === "he";
+
   return (
     <footer
+      dir={he ? "rtl" : "ltr"}
       style={{
         background: "#fff",
         borderTop: "1px solid #ddd",
@@ -31,7 +38,7 @@ export default function Footer() {
           }}
           className="hover:text-primary"
         >
-          {link.label}
+          {he ? link.labelHe : link.label}
         </Link>
       ))}
     </footer>

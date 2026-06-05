@@ -516,6 +516,640 @@ After the calculation of massive randomly-generated times to failure, MRS automa
 
 לאחר חישוב כמות עצומה של זמני כשל שנוצרו באקראי, MRS יוצר באופן אוטומטי היסטוגרמת זמן-עד-כשל, ומחשב פרמטרים עבור כל סוגי ההתפלגות האפשריים. לאחר מכן, התוכנה בוחרת את סוג ההתפלגות האופטימלי. לשם כך, התוכנה לוקחת את כל ההתפלגויות הסטנדרטיות ובוחנת, באמצעות מבחן כי-בריבוע (χ²), את התאמתן לנתונים שנצפו. ההתפלגות בעלת רמת המובהקות הגבוהה ביותר מודגשת ברשת ההתפלגויות, ומוצג תרשים צפיפות הכשל המתאים.`,
   },
+  {
+    slug: "anatomy-of-a-successful-car-citroen-picasso",
+    title: "Anatomy of a Successful Car – Citroën Picasso, 5 Seats",
+    titleHe: "אנטומיה של מכונית מוצלחת – ציטרואן פיקסו 5 מושבים",
+    excerpt:
+      "About a year ago my wife replaced her car. Beforehand we went through every dealership and checked almost all of them, and we realized we are on the seam of a technology shift, where safety mattered most and functionality came second.",
+    excerptHe:
+      "לפני כשנה אישתי החליפה את הרכב שלה, לפני כן עברנו בכל סוכנויות הרכבים ובדקנו את כמעט כולם, וראינו שאנחנו בתפר של טכנולוגיה, החשוב מכל היתה הבטיחות ואחר כך הפונקציונליות.",
+    category: "reliability-safety",
+    date: "2017-07-14",
+    readTime: 8,
+    content: `About a year ago my wife replaced her car. Beforehand we visited every car dealership and checked almost all of them — expensive, cheap, small and large — and we realized we are at the seam of a technology shift. The most important thing was safety, and after that functionality.
+
+Safety systems can be divided into basic, advanced, and most-advanced. The cars with the most advanced systems, which actively intervene in driving, were luxury cars costing over 300,000 NIS. The advanced tier contained passive, warning-only systems and was found in mid-range cars, and the basic tier had only ABS, airbags and anti-skid, which are mandatory in the small cars.
+
+Even today we are at a technological seam between passive warning systems and active ones. If someone is now (May 2017) looking to buy a new car, I recommend waiting (if possible) until the active systems become standard.
+
+Out of all our searches we settled on the Citroën Picasso. I don't understand why this car isn't popular. As for its reliability — more than a year has passed with no faults, and the manufacturer's warranty is three years, so the car's reliability is no less than the Japanese or other European cars.
+
+But there were two points I wanted to share that illustrate just how much we are on the seam line that the regulator is stirring.
+
+The model I ordered included a built-in Mobileye system, so automatic braking and lane-departure warning were included. During the sale we were given a discount, and in hindsight I understood that what happened was truly absurd: in order to get that tax discount from the state, the Mobileye protection system had to be installed locally rather than as original equipment. So they added another camera to the windshield instead of the original one, and we got a warning-only system rather than an active one. Had I known this in advance I would have given up the discount. Today we have two cameras on the windshield — one original that was disconnected, and a second from local installation but weaker in features. According to the dealer, the original camera is meant for the automatic rain wiper and for turning the lights on automatically at night; in my opinion the camera is too large to serve as a rain and light sensor.
+
+A reverse camera was also installed on the rear bumper. The image shown on the driver's display was a bottom-up picture that gave a distorted view, and it was hard to understand what was happening behind. Luckily, when I called the dealership they said this was correct and that they would install a proper reverse camera at license-plate height free of charge — and indeed they did, to my full satisfaction. I'd like to commend Roni here, who handled the repair efficiently.
+
+It might also be worth talking to them about the warning system.
+
+**The small features that make the car great and made me fall in love with it:**
+
+A gear selector on the steering column — there is no longer a gear lever in the console between the driver and the front passenger. A bit confusing at first but really simple, and it saves space.
+
+An electronic handbrake — no lever between the driver and front-passenger seats, again leaving plenty of room. The brake is fully automatic: it locks when you stop and releases when you start driving, preventing driving with the handbrake up.
+
+Armrests for the driver and front-passenger seats that fold out from the seat and adjust.
+
+An electronic instrument cluster with a single operating screen and no complicated buttons around it. Easy to use and space-saving.
+
+A huge gap between the driver and front-passenger seats, in which a very convenient, removable console was installed — making the space really large.
+
+Enormous legroom for the middle rear passenger; because there is a huge gap between the front seats, the person sitting behind can stretch their legs.
+
+Rear air-conditioning vents installed in the rear door pillars instead of in the console between the front seats.
+
+Three independent rear seats that slide back and forth to increase the trunk volume or fit child seats. We managed to fit 4 large suitcases, 2 small ones and a baby stroller; in the back, two toddlers and an adult, and two adults up front — and it didn't look crowded.
+
+A semi-panoramic transparent roof that reaches above the driver's head, with sunshades that fold conveniently for day or night.
+
+All the seats are very comfortable and can be adjusted in every direction.
+
+Isofix anchor points for fastening child seats.
+
+A trunk with a lower floor for small accessories.
+
+Storage compartments in the floor under the mats for storing and hiding things.
+
+LED interior lighting that dims after the doors are closed.
+
+Automatic operation of the road lighting. No need to switch it on or off — it happens automatically and also depends on day or night lighting.
+
+Getting in and out on the driver's side is comfortable, and there is no situation where your knees get stuck on the steering wheel or under it — there is simply nothing there and the legroom for the driver is very large.
+
+A tire-pressure gauge — you can know about a puncture in advance via an alert that the air pressure is dropping, so you can get it fixed before getting stranded on the road.
+
+**And from all this goodness, there are two annoying points:**
+
+The side mirrors are too rounded and close, requiring the driver to turn their head to look at them.
+
+The front-door opening handle is located low and is not comfortable to find.
+
+**A list of systems worth having in every car:**
+
+Electrically adjustable side mirrors that fold when parking.
+
+Adaptive cruise control — that is, if we set the driving speed and suddenly get stuck behind a slow car, the system slows the car automatically, and when the jam clears the speed rises again. I tried this in a rental abroad — a real pleasure and safe.
+
+Headlights that turn toward the direction of travel in curves. This helps a lot in turns, where normally the headlights shine straight ahead while we are turning right or left and the area is dark. I tried this too in a rental abroad — it really eases driving; the road is clear and lit rather than feeling like driving into the unknown the old way.
+
+A forward driving recorder on a DVR memory unit; the video can be uploaded to the cloud via the phone over Bluetooth or NFC. The recording should be extended to the sides and rear so there is full documentation of the drive when needed, as well as documentation in case a car hits yours while parked or in case of theft.
+
+A reverse camera mounted high and not on the bumper; you can simply connect it to the car's DVR recorder and record the drive from behind.
+
+Keyless entry and start — you put your hand on the door handle and the door opens; you press the start button, the steering unlocks and the engine starts. Locking is done by pressing an external button on the door handle.
+
+Automatic parking — I tried it in a car in England and parking became very simple.
+
+A self-dimming rear-view mirror that prevents glare; actually it is not a mirror but an image from a camera in which every pixel can be controlled to prevent glare.
+
+Automatic wipers — they start working when it rains, and the speed is also adjusted automatically.
+
+Airless tires — tires can be made like a rigid sponge, eliminating puncture problems and allowing safer driving.
+
+I assume that within a year or two these systems will become standard in all cars, even before we see autonomous cars.`,
+    contentHe: `לפני כשנה אישתי החליפה את הרכב שלה, לפני כן עברנו בכל סוכנויות הרכבים ובדקנו את כמעט כולם, יקרות, זולות, קטנות וגדולות, וראינו שאנחנו בתפר של טכנולוגיה, החשוב מכל היתה הבטיחות ואחר כך הפונקציונליות.
+
+את מערכות הבטיחות ניתן לחלק לבסיסיות, למתקדמות והמתקדמות ביותר. המכוניות עם המערכות המתקדמות ביותר שמתערבות בנסיעה היו ברכבי יוקרה מעל 300 אלף שקל. המתקדמות הכילו מערכות פסיביות המתריעות בלבד והם היו ברכבי הביניים והבסיסיות רק ABS, כריות אוויר ומניעת החלקה שהם כחובה בקטנות.
+
+גם כיום אנחנו נמצאים בתפר טכנולוגי בן מערכות פסיביות מתריעות לבין אקטיביות. אם מישהו מחפש עכשיו (מאי 2017 ) לרכוש רכב חדש אני ממליץ לחכות (אם ניתן) עד שהמערכות האקטיביות יכנסו כסטנדרט.
+
+מכל החיפושים ננעלנו על הציטרואן פיקסו, לא מבין למה הרכב הזה לא פופולרי ולגבי האמינות שלו, עברה כבר יותר משנה ואין תקלות ואחריות היצרן היא לשלוש שנים כך שאמינות הרכב לא נופלת מהיפניות או הארופאיות האחרות.
+
+אבל היו שתי נקודות שרציתי לספר הממחישות כמה אנחנו בקוו התפר שהרגולטור בוחש בו.
+
+דגם הרכב שהזמנתי כלל מערכת מובילאיי מובנית כך שבלימה אוטומטית וסטיה מנתיב היו כלולים, תוך כדי המכירה נתנה לנו הנחה שבדיעבד הבנתי מה שקרה הוא ממש אפסורד, על מנת לקבל את הנחת המיסים הזאת מהמדינה היה צורך שמערכת ההגנה של מובילאיי תהיה מותקנת מקומית ולא מקורית, לכן הוסיפו עוד מצלמה לשמשה הקדמית במקום המקורית וקיבלנו מערכת התרעות בלבד ולא אקטיבית. אילו ידעתי זאת מראש הייתי מוותר על ההנחה. כיום יש לנו על השמשה הקדמית שתי מצלמות האחת מקורית שנותקה והשניה מהתקנה מקומית אבל חלשה יותר בתכונות. לטענת המשווק המצלמה המקורית מיועדת למגב גשם אוטומטי ולהדלקת אורות בלילה גם כן אוטומטית, לדעתי המצלמה יותר מידי גדולה כדי לשמש חיישן גשם ואור.
+
+כמו כן הותקנה מצלמת רוורס על הפגוש האחורי, הצילום שהתקבל בצג הנהג היתה תמונה מלמטה למעלה ונתנה תמונה מעותת לנהג והיה קשה להבין מה שקורה מאחור. למזלי כשהתקשרתי לסוכנות הרכב הם אמרו שזה נכון והן יתקינו לי מצלמת רוורס כפי שצריך בגובה מספר הרכב ללא תשלום, ואכן הם ביצעו זאת לשביעות רצוני המלאה. אני רוצה כאן לציין לטובה את רוני שהיה אחראי על התיקון ביעילות.
+
+אולי כדאי גם לדבר איתם לגבי מערכת ההתראות.
+
+**הפיצרים הקטנים שעושים את המכונית לגדולה וגרמו לי להתאהב במכונית:**
+
+ידית מהלכים בהגה, אין יותר את ידית המהלכים בקונסולה בין הנהג והיושב לידו, בהתחלה קצת מבלבל אבל ממש פשוט וחוסך מקום.
+
+בלם יד אלקטרוני, אין ידית בין מושב הנהג לנוסע ליד ושוב נשאר מקום גדול. הבלם אוטומטי לחלוטין ננעל כשעוצרים ומתנתק כשמתחילים ליסוע, מונע את המצב של נסיעה עם בלם יד מורם.
+
+ידיות כורסא למושב נהג וליושב לידו שיוצאות מהכסא ומתכווננות.
+
+לוח שעונים אלקטרוני עם מסך תפעול אחד ללא כפתורים מסובכים מסביב. נוח לתפעול וחוסך מקום.
+
+רווח עצום בין מושב הנהג והיושב לידו, ברווח הזה התקינו קונסולה נוחה מאוד והניתנת לשליפה ואז המקום ממש גדול.
+
+מרווח רגליים עצום ליושב באמצע במושב האחורי, היות ויש רווח עצום בין מושב הנהג ולמושב לידו היושב מאחור יכול למתוח רגליים.
+
+פתחי מזגן אחוריים מותקנים בקורות הדלתות האחוריות במקום בקונסולה בין הנהג ליושב לידו.
+
+3 מושבים אחוריים עצמאיים הניתנים להזזה אחורה וקדימה להגדיל את נפח תא המטען או לשים כסאות תינוק. הצלחנו לשים 4 מזוודות גדולות, 2 קטנות ועגלת תינוק, במושב האחורי שני תינוקות ומבוגר ושני מבוגרים מקדימה וזה לא נראה דחוס.
+
+גג שקוף חצי פנורמי המגיע עד מעל ראש הנהג עם מגיני שמש מתקפלים בנוחות ליום או ללילה.
+
+כל הכסאות נוחים מאוד וניתן לכוון לכל הכיוונים.
+
+נקודות איזו לקשירת כסאות תינוק.
+
+תא מטען עם קומה תחתית לאביזרים קטנים.
+
+תאי מטען ברצפה מתחת לשטיחים לאיחסון ולהסתרת דברים.
+
+תאורת פנים מסוג לד מתעמעת אחרי סגירת הדלתות.
+
+הפעלה אוטומטית של תאורת הדרך. אין צורך להפעיל או לכבות, הדבר מתבצע אוטומטית וגם תלוי בתאורת היום או הלילה.
+
+יציאה וכניסה לרכב בצד הנהג נוחה ואין מצב שהברכיים נתקעות בהגה או בחלק שמתחת להגה, פשוט אין שם כלום והמרווח גדול מאוד לרגלי הנהג.
+
+מד לחץ אוויר בצמיגים, ניתן לדעת מבעוד מועד על תקר ע"י התראה שלחץ האוויר יורד, ניתן לגשת לתקן לפני שנתקעים בדרך.
+
+**ומכל הטוב הזה יש שתי נקודות טורדניות:**
+
+מראות הצד הם יותר מידי מעוגלות וקרובות ונדרש מהנהג להסיט את הראש כדי להביט בהם.
+
+ידית פתיחת הדלתות הקדמיות נמצאת למטה ולא נוח לחפש אותה.
+
+**רשימה של מערכות שכדאי שיהיו בכל רכב:**
+
+מראות צד מתכוננות חשמלית ומתקפלות בחניה.
+
+בקרת שיוט אדפטיבית, כלומר אם קבענו את מהירות הנסיעה ופתאום אנחנו נתקעים בפקק מאחרי רכב איטי המערכת מאיטה את הרכב אוטומטית כאשר הפקק משתחרר המהירות עולה. ניסיתי זאת ברכב שכור בחו"ל, ממש תענוג ובטוח.
+
+פנסים קדמיים המופנים לכיוון הנסיעה בסיבובים, הדבר עוזר מאוד בפניות כאשר באופן רגיל הפנסים מאירים קדימה אבל אנחנו נוסעים ימינה או שמאלה והאיזור חשוך, גם כאן ניסיתי זאת ברכב שכור בחו"ל, ממש מקל על הנסיעה, הכביש ברור ומואר ולא כאילו אנחנו נוסעים אל הלא מודע בשיטה הישנה.
+
+מקליט נסיעה קידמית בווידאו על יחידת זיכרון DVR, הוידאו יכול לעבור לענן דרך הנייד בשן כחולה או ב NFC. צריך להרחיב את הצילום לצדדים ולאחור כך שיש תיעוד מלא לנסיעה במקרה הצורך וכן תיעוד במקרה של רכב פוגע בחניה או במקרה גניבה.
+
+מצלמת רוורס המותקנת גבוה ולא על הפגוש, ניתן באופן פשוט לחבר את המצלמה למקליט הודיאו DVR של הרכב ולהקליט את הנסיעה מאחור.
+
+פתיחת דלתות והתנעה ללא מפתח – שמים את היד בידית הפתיחה והדלת נפתחת, לוחצחים על כפתור ההתנעה, ההגה משתחרר מנעילה והמנוע מופעל. הנעילה מתבצעת ע"י לחיצה על כפתור חיצוני בידית הדלת.
+
+חניה אוטומטית, ניסית זאת ברכב באנגליה והחניה הפכה לפשוטה מאוד.
+
+מראה אחורית מתעמעת מונעת סינוור, למעשה זאת לא מראה אלה תמונה ממצלמה שניתן לשלוט על כל פיקסל למניעת סינוור.
+
+מגבים אוטומטיים. מתחילים לעבוד כשיורד גשם והמהירות מכווננת גם אוטומטית.
+
+צמיגים ללא אוויר, ניתן ליצר צמיגים שעשויים כמו ספוג קשיח ואז אין בעיה של פנצרים, אפשר ליסוע באופן בטוח יותר.
+
+אני מניח שתוך שנה או שנתיים מערכות אלו יכנסו כסטנדרט בכל הרכבים עוד לפני שנראה מכוניות אוטונומיות.`,
+  },
+  {
+    slug: "why-you-no-longer-need-a-spare-wheel",
+    title: "Why You No Longer Need a Spare Wheel – and the Link to Predictive Maintenance",
+    titleHe: "למה כבר לא צריך יותר גלגל רזרבי ברכב ומה הקשר לתחזוקה חזוייה?",
+    excerpt:
+      "Lately we've seen car manufacturers trying to market cars without a spare wheel. The regulator should take into account that there is no longer any need to insist on a spare wheel, thanks to new technologies it itself now mandates.",
+    excerptHe:
+      "לאחרונה אנו עדים שיצרני הרכב מנסים לשווק מכוניות ללא גלגל רזרבי. הרגולטור צריך לקחת בחשבון שכבר לא צריך להתעקש על גלגל רזרבי ברכב וזאת עקב תוספות טכנולוגיות חדשות אשר מקטינות את הצורך בו.",
+    category: "reliability-safety",
+    date: "2015-11-10",
+    readTime: 3,
+    content: `Lately we've seen car manufacturers trying to market cars without a spare wheel. Here and there, there are protests, but the one who will decide is the regulator. The regulator, however, should take into account that there is no longer any need to insist on a spare wheel in the car, thanks to new technological additions that it itself now mandates and which reduce the need for a spare wheel.
+
+About four years ago I bought a new car that included an electronic tire-pressure gauge. As a big gadget lover I saw this accessory more as a gimmick — which later turned out to be extremely useful. Over those four years I had several punctures, but in hindsight I never once got stranded on the road because of them. The electronic pressure gauge alerted me immediately when the pressure dropped, and I had at least a day to get the puncture fixed. Without a pressure gauge I would have driven until the air ran out and then been forced to stop and change a wheel on the roadside. Stopping on the roadside is extremely dangerous, and in recent years there have been many accidents involving people who stopped on the roadside to change a wheel.
+
+So the requirement today that every new car on the road be fitted with an air-pressure measurement system is extremely important for preventing road accidents. Such a system will also alert us if the tire is old and air begins to leak.
+
+In fact I didn't pay attention to this until I heard that car manufacturers would no longer supply a spare wheel.
+
+And on the technological side, it turns out that air-pressure sensors belong to a technology called predictive maintenance. Why? Because a drop in air pressure signals a puncture or a leak, and that in the near future we will need to perform a maintenance action — in this case, changing a wheel. In fact, the predictive-maintenance approach is entering industry more and more, for every product that may break down. It is always better and cheaper to get an indication of a fault that is about to happen than to be caught when it occurs. We are essentially changing the whole maintenance concept from a state of sudden failures to one where everything is known in advance and planned. Much cheaper and safer.
+
+By the way, the electronic pressure gauge is a highly sophisticated component containing a battery, a transducer that converts air pressure to a digital signal, and a transmitter that constantly transmits the pressure to a receiver in the car's dashboard. Each sensor is coded to a specific tire on the car. The battery life is designed for five years, so they must be replaced every five years.`,
+    contentHe: `לאחרונה אנו עדים שיצרני הרכב מנסים לשווק מכוניות ללא גלגל רזרבי, פה ושם יש מחאות אך מי שיקבע זה הרגולטור. אבל הרגולטור צריך לקחת בחשבון שכבר לא צריך להתעקש על גלגל רזרבי ברכב וזאת עקב תוספות טכנולוגיות חדשות אשר הוא מחייב כיום ואשר מקטינות את הצורך בגלגל רזרבי.
+
+לפני כארבע שנים רכשתי רכב חדש הכולל מד לחץ אלקטרוני לצמיגים, כחובב גדגטים ראיתי אביזר זה יותר כגימיק, שהתברר אחר כך כמועיל ביותר . במשך ארבעת השנים האלו קרו לי מספר תקרים אבל במבט לאחור אף פעם לא נעצרתי בדרך בגללם. מד הלחץ האלקטרוני התריע לי מייד עם ירידת הלחץ והיה לי זמן של לפחות יום לגשת לתיקון התקר. במצב רגיל ללא מד לחץ הייתי נוסע עד שהאוויר היה מתרוקן ואז נאלץ לעצור ולהחליף גלגל בצידי הכביש. העצירה בצידי הכביש מסוכנת ביותר ובשנים האחרונות היות תאונות רבות שקרו לאנשים שעצרו בצידי הדרך להחלפת גלגל.
+
+לכן החיוב כיום שבכל רכב חדש שעולה לכביש תותקן מערכת למדידת לחץ האוויר היא חשובה ביותר למניעת תאונות דרכים. מערכת כזאת תתריע לנו גם אם הצמיג ישן ומתחילה דליפת אוויר.
+
+למעשה לא הקדשתי לכך תשומת לב עד אשר שמעתי שיצרני מכוניות לא יספקו יותר גלגל רזרבי.
+
+ובפאן הטכנולוגי מסתבר שגלאי לחץ האוויר שייכים לטכנולוגיה הנקראת תחזוקה חזוייה, וזאת למה? מפני שירידה בלחץ האוויר מסמנת תקר או דליפה ושבעתיד הקרוב נצטרך לבצע פעולה תחזוקתית שבמקרה זה החלפת גלגל. למעשה שיטת התחזוקה החזוייה נכנסת יותר ויותר לתעשיה ולכל מוצר שעשוי להתקלקל, והרי תמיד כדאי וזול יותר לקבל חיווי על תקלה שהולכת לקרות ולא להמצא כשהתקלה קורית. למעשה אנו משנים את כל קונספט התחזוקה ממצב של כשלים פתאומיים להכל ידוע מראש ומתוכנן. הרבה יותר זול ובטוח.
+
+דרך אגב מד הלחץ האלקטרוני הוא רכיב מתוחכם ביותר ומכיל סוללה, מתמר לחץ אוויר לאות דיגיטלי ומשדר המשדר את הלחץ באופן קבוע למקלט הנמצא בדשבורד של הרכב. כל חישן מקודד לצמיג ספיציפי ברכב. חיי הסוללה מתוכננים לחמש שנים, כך שחובה להחליפם כל חמש שנים.`,
+  },
+  {
+    slug: "batteries-in-toys",
+    title: "Batteries in Toys",
+    titleHe: "סוללות בצעצועים",
+    excerpt:
+      "I have two adorable granddaughters whom I try to teach something new and technical every three months. This time I bought them a remote-control car — and learned a small lesson about the batteries that come in the box.",
+    excerptHe:
+      "יש לי 2 נכדות חמודות שאני כל 3 חודשים מנסה ללמד אותן משהוא טכני חדש. הפעם החלטתי לרכוש להם מכונית צעצוע עם שלט – ולמדתי לקח קטן על הסוללות שמגיעות בקופסא.",
+    category: "reliability-safety",
+    date: "2015-11-10",
+    readTime: 3,
+    content: `I have two adorable granddaughters whom, every three months, I try to teach something new and technical that requires engineering and logical thinking. This time I decided to buy them a remote-control toy car (previous times it was always some handicraft), in order to teach them to control it with their fingers in coordination with the car's movements. I searched online and found many types; from the photos you couldn't tell what you'd get, so I decided to go to a store where you can handle the toy. Prices ranged from one hundred shekels to several hundred. It was important to me that the car be large and not miniature, with big wheels but not a jeep. Of all the cars, my attention was drawn to one that can also flip over and change direction. To my surprise, the box contained 4 rechargeable batteries, a charger, and 2 batteries for the remote — a complete set, all for 130 NIS. After paying I tried to open it in the store, but the accessories were wrapped and tied so tightly that I decided to check only at home. At home I assembled everything and put the batteries on to charge. The next morning I turned on the remote; the car worked for a few seconds and then died. I told myself, what can you expect from a toy that costs only 130 NIS? And I planned to visit the store in the evening.
+
+While fiddling with the remote to figure out the fault, I noticed that the red LED indicating the remote is on was fading. I took the batteries out of the remote and looked at them; by touch they already felt rough, with signs of chemical leakage and corrosion. I have a battery tester at home, and the test showed that both batteries were almost empty. I checked the manufacturing date stamped on the box and it was 2015, so it seemed to be from a new batch. I put in two new batteries and the remote came back to life and the car works wonderfully — again, all for 130 NIS. In any case, putting two leaking batteries into a child's toy seems dangerous to me.
+
+Even though the price is really low, even after I added two new batteries, I decided to go to the store to tell them about this and to hear their reaction. I was then told, "The batteries are just for a few seconds or minutes, only to check that the car works with the remote; after that you need to buy new batteries." That's not terrible, but they should have told me in the store so I could buy new batteries — luckily I had spare batteries at home.
+
+Conclusion: today there are quality, cheap toys. Always open the box in the store and have them show you that the toy works — it will probably save you another trip to the store.`,
+    contentHe: `יש לי 2 נכדות חמודות שאני כל 3 חודשים מנסה ללמד אותן משהוא טכני חדש ואשר מצריך חשיבה הנדסית ולוגית. הפעם החלטתי לרכוש להם מכונית צעצוע עם שלט (פעמים קודמות זה היה תמיד איזה מלאכת ידיים) וזאת במטרה ללמד אותן לשלוט עם האצבעות בקורדינציה של תנועות רכב. ניסיתי לחפש באינטרנט ומצאתי המון סוגים, מהתמונות לא היה ניתן לראות מה מקבלים והחלטתי ללכת לחנות שבה ניתן למשש את הצעצוע. המחירים נעו ממאה שקלים עד כמה מאות שקלים. היה חשוב לי שהמכונית תהיה גדולה ולא מיניטורית עם גלגלים גדולים אבל לא גיפ. מכל המכוניות משכה את תצומת ליבי מכונית שיודעת גם להתהפך ולשנות כיוון נסיעה. להפתעתי הקופסא הכילה 4 סוללות נטענות, מטען וגם 2 סוללות לשלט, כלומר קומפלט שלם וכל זאת ב 130 ש"ח. אחרי ששילמתי ניסיתי לפתוח בחנות, אבל האיבזרים היו עטופים וקשורים כל כך חזק כך שהחלטתי לבדוק רק בבית. בבית הרכבתי הכל ושמתי את הסוללות בהטענה. למחרת בבוקר הפעלתי את השלט, הרכב עבד מספר שניות ואז שבק חיים, אמרתי לעצמי מה אפשר כבר לצפות מצעצוע כזה שעולה רק 130 ש"ח? ותכננתי לבקר בחנות בערב.
+
+תוך כדי התעסקות עם השלט ולהבין מה התקלה שמתי לב שנורת הלד האדומה המציינת שהשלט מופעל דועכת. הוצאתי את הסוללות מהשלט והסתכלתי עליהם, במישוש הם כבר נראו לי מחוספסות וסימני דליפה של חומר כימי וקורזיה עליהם. יש לי בבית בודק סוללות ואז ראיתי בבדיקה ששני הסוללות כמעט ריקות. בדקתי את תאריך היצור המוטבע על הקופסא וזה היה 2015 כך שזה נראה לי מייצור חדש. שמתי שתי סוללות חדשות והשלט חזר לחיים והמכונית עובדת להפליא ושוב כל זאת ב 130 ש"ח. בכל אופן להכניס שתי סוללות שנוזלות לצעצוע של ילד נראה לי מסוכן.
+
+למרות שהמחיר ממש נמוך גם אם הוספתי שתי סוללות חדשות, החלטתי ללכת לחנות לספר להם על הדבר וכדי לשמוע את תגובתם. ואז נאמר לי "הסוללות הם ממש לכמה שניות או דקות רק כדי לבדוק שהמכונית עובדת עם השלט, אחרי זה צריך לרכוש סוללות חדשות." זה לא נורא אבל היה צריך להגיד לי בחנות כדי שאוכל לרכוש סוללות חדשות, למזלי היו לי בבית סוללות רזרבה.
+
+מסקנה יש כיום צעצועים איכותיים וזולים, תמיד תפתחו את הקופסא בחנות ושיראו לכם שהצעצוע עובד, זה כנראה יחסוך לכם ביקור נוסף בחנות.`,
+  },
+  {
+    slug: "why-do-we-have-a-spare-tire",
+    title: "Why Do We Have a Spare Tire in the Car?",
+    titleHe: "מדוע יש לנו צמיג רזרבי במכונית?",
+    excerpt:
+      "Today almost every car has a spare wheel. But when you consider the real causes of punctures, and the electronic tire-pressure gauge now required in every new car, the spare wheel becomes far less necessary for urban driving.",
+    excerptHe:
+      "כיום כמעט לכל מכונית יש גלגל רזרבי. אבל כשחושבים מהן הסיבות האמיתיות לתקרים, ועל מד הלחץ האלקטרוני הנדרש כיום בכל רכב חדש, הגלגל הרזרבי הופך להרבה פחות הכרחי בנסיעה עירונית.",
+    category: "maintenance-engineering",
+    date: "2015-10-31",
+    readTime: 4,
+    content: `Today almost every car has a spare wheel — usually full-size like the others, and sometimes small. After a puncture we always drive straight to fix it.
+
+This week I saw an advertisement for a new car that arrived in the country without a spare wheel, and I immediately pictured drivers who'd be afraid to buy such a car.
+
+When you think about the causes of car faults, there are other faults that would make us stop — so why don't they put a spare component in the car for those, such as bulbs, spark plugs, water and other small parts that, if faulty, would stop the car?
+
+Including a spare wheel is a legacy of an old standard that requires it. In my opinion there is no need today for a spare wheel in urban cars; for off-road vehicles or anyone driving on dirt roads it is still advisable.
+
+And why? Well, about 4 years ago I bought a new car, and I always make sure it has nearly all the technological innovations available at the time. One of the innovations was an electronic tire-pressure gauge — back then a luxury, today a requirement. And indeed this innovation saved me from at least several punctures. How does it happen? Since I drive only on paved roads, the only cause of a puncture can be a nail or screw that gets caught in the tire's grooves and lodges in it; in such a case the screw seals the hole but a slow air leak begins. As soon as the air pressure starts to drop, I get an indication of which tire it is. I immediately check, and I always found a screw or nail. I always still had time to go the next day to fix the future puncture. By the way, there are no screws and nails on highways because they get flung aside by the moving cars; you'll always find them in parking lots, and there they lodge in tires because we drive slowly. You absolutely must not pull the screw out — leaving it in seals the hole, and you should drive straight to repair the puncture.
+
+A tire blowout is rare for car owners who make sure to replace tires on time, so I recommend checking the tires not only at the annual inspections but doing a self-check or a garage visit every six months. This check should be done starting from the second year, or every year if we drive more than 10,000 km a year.
+
+In summary, you can do without a spare tire for urban cars, provided the car is fitted with an electronic pressure gauge. Fortunately, every new car is required to have such an installation. For the meticulous, you can add a repair kit to increase your peace of mind.
+
+A good and safe drive.`,
+    contentHe: `כיום כמעט לכל מכונית יש גלגל רזרבי לרוב הוא גדול כמו שאר הגלגלים ולפעמים קטן. אחרי אירוע פנצ'ר תמיד ניסע מייד לתקן אותו.
+
+השבוע ראיתי פרסום של מכונית חדשה שהגיע לארץ ללא גלגל רזרבי ומייד ראיתי נהגים שיפחדו לרכוש רכב כזה.
+
+כשחושבים מהם הסיבות לתקלות ברכב יש עוד תקלות שיגרמו לנו לעצור, מדוע להם לא שמים רכיב רזרבי ברכב, למשל נורות, פלגים, מיים ושאר חלקים קטנים שאם הם תקולים הרכב יעצור?
+
+הכללת גלגל רזרבי הוא תולדה של תקן ישן המחייב זאת. לדעתי כיום אין צורך בגלגל רזרבי במכוניות עירוניות, לרכבי שטח או מי שנוסע בדרכי עפר עדיין רצוי.
+
+ולמה מדוע? ובכן לפני כ- 4 שנים רכשתי רכב חדש ואני מקפיד תמיד שיהיו בו כמעט כל חידושי הטכנולגיה הקיימים באותה עת. אחד החידושים היה מד לחץ אלקטרוני לצמיגים, אז זה היה מותרות כיום זאת חובה. ואכן חידוש זה הציל אותי לפחות ממספר פנצ'רים. ואיך זה קורה? היות ואני נוסע אך ורק בדרכים סלולות, הסיבה היחידה לפנצר יכולה להיות מסמר או בורג שנדבק בחריצי הצמיג ונתקע בו, במקרה כזה הבורג סוגר את החור אבל מתחילה דליפה איטית של האוויר. איך שלחץ האוויר מתחיל לרדת אני מקבל חיווי על איזה צמיג מדובר. מייד אני בודק ותמיד מצאתי בורג או מסמר. תמיד עוד היה לי זמן ללכת למחרת לתקן את הפנצ'ר העתידי. דרך אגב ברגים ומסמרים אין בכבישים מהירים מפני שהם ניתזים הצידה ע"י המכוניות הנוסעות, תמצאו אותם תמיד בחניות ושם הם נתקעים בצמיגים מפני שאנחנו נוסעים לאט. אסור בהחלט להוציא את הבורג, השארתו סותמת את החור ויש ליסוע מייד לתיקון התקר.
+
+פיצוץ צמיג הוא דבר נדיר לבעלי רכב המקפידים להחליף צמיגים בזמן ולכן אני ממליץ לבדוק את הצמיגים לא רק בבדיקות השנתיות אלה לבצע כל חצי שנה בדיקה עצמית או להכנס למוסך. בדיקה זאת יש לבצע החל מהשנה השניה או כל שנה אם אנחנו נוסעים יותר מ 10,000 ק"מ לשנה.
+
+לסיכום ניתן לוותר על צמיג רזרבי לרכבים עירוניים ובתנאי שברכב מותקן מד לחץ אלקטרוני. לשמחתנו כל רכב חדש מחוייב בהתקנה כזאת. למהדרין אפשר להוסיף ערכת תיקון להגדלת הביטחון העצמי.
+
+נסיעה טובה ובטוחה.`,
+  },
+  {
+    slug: "car-locked-with-key-inside",
+    title: "Has Your Car Ever Locked With the Key Inside?",
+    titleHe: "קרה לך שהרכב ננעל עם המפתח בפנים?",
+    excerpt:
+      "On a trip to Romania our rented car suddenly locked itself with the keys and both our phones inside, in the middle of nowhere at dusk. A story — and what it has to do with reliability engineering.",
+    excerptHe:
+      "בטיול ברומניה הרכב השכור שלנו ננעל לפתע עם המפתחות ושני הטלפונים בפנים, באמצע שום מקום לפנות ערב. סיפור – ומה הקשר שלו להנדסת אמינות.",
+    category: "reliability-safety",
+    date: "2015-10-31",
+    readTime: 6,
+    content: `About two months ago I traveled with my wife on a trip to Romania. We rented a car and set off. We had visited Romania back during Ceaușescu's regime, and we wanted mainly to see the scenery and the changes since then; the price also appealed to us — what you're used to paying in dollars is in shekels there. We got a fancy German automatic car, and I mounted my mobile phone with the navigation software I use around the world, because the whole map is on the phone and you don't need a constant internet connection. Next to me were other renters picking up their car, and I heard them talking about running the Waze navigation app. I immediately launched Waze, and indeed it started working — and I must note it worked very efficiently on all the small back-roads I drove in Romania, including directions to bypass closed roads. I should just note that a month before, I had switched my mobile plan to one where everything is included, in Israel and abroad, including phone calls and internet. And indeed the phone bill shrank from thousands of shekels a month — don't forget I travel abroad almost twice a month, and not to Romania — to just a hundred shekels. We drove about 2,000 km in three weeks. The roads are almost all really good but winding, and everyone drives really fast — they know the scenery, I don't. There were several roads with so many potholes that I kept praying the car wouldn't fall apart even though it was new. What's interesting is that there were few cars, traveling in groups, the slowest first — that's me, of course — and behind, those overtaking me sometimes looked suicidal and it really stressed me out; I always pulled onto the shoulder to let them pass. Afterwards you can drive for half an hour with no car behind you. It's really fun and you can enjoy the stunning scenery.
+
+Then, when we were at the northernmost point of the trip, in the middle of nowhere, after a two-hour straight drive, I wanted to get some air. I stepped out of the car and started walking around it and stretching. It was toward evening with a magnificent sunset over the endless cornfields and the mountains with the forests; the weather was pleasant and a cool breeze caressed my face. I was thirsty and opened the trunk lid to take out water. My wife saw how much I was enjoying myself outside and decided to get out and stretch too. As soon as she got out and closed the door — suddenly a bang, and another bang. I check what happened and, to my great surprise, the two front doors locked. We were shocked; we tried to open all the doors — everything locked, and everything inside, including my phone and hers.
+
+We were in the middle of nowhere, night was about to fall, and we were 20 km from the next destination with no car passing by. We were so stunned that I forgot the trunk lid was open. The moment I realized we had real luck, we took the suitcases out of the trunk and I cleared a path to the rear door. From here the joy was great.
+
+For all the curious about how Romania is: the most interesting thing was that they have no plastic from China, and most products are made of wood combined with metal. We stayed only in hotels or new B&Bs, even in the most remote places we visited; everything is modern — flat TVs, granite flooring — and the Romanian food is really tasty. Recommended. Book rooms only on hotel-booking sites; that way you'll get the best service, because afterwards the hosts expect you to praise the place to the next guests.
+
+To all those whose car has locked with the key inside — please send me how you got out.
+
+And what does this have to do with reliability engineering? Well, every manufacturer of a product — in this case a car — must perform engineering analyses that check, in this case, the safety of the car's locking. I'm sure this manufacturer didn't do it, or at least didn't instruct me how to avoid such a situation (who has time for such training? we expect the car to be designed so that such a situation won't happen, right?). This manufacturer apparently paid more attention to crash safety, which is excellent, but not to the case at hand.
+
+For the professionals, briefly: you need to characterize a system-level failure — in this case "car locking when the key is inside and everyone is outside" — scan all the circuits and components in the car's locking path, characterize their failure modes, start assembling a puzzle of operation/fault paths, and find a path that would cause locking with everyone outside. If such a path exists, you must make a design change so that it won't happen — sometimes in hardware, sometimes in software. There are automatic software tools that perform such design checks, for example CARE — Computer Aided Reliability Engineering.`,
+    contentHe: `לפני כחודשיים נסעתי עם אישתי לטיול ברומניה, שכרנו רכב והתחלנו בנסיעה. ביקרנו בזמנו ברומניה כשהיה השילטון של צ'אושסקו ורצינו לראות בעיקר את הנופים ואת השינויים שחלו מאז, גם המחיר קרץ לנו ומה שאתם רגילים בדולר זה בשקל. קיבלנו רכב אטומטי גרמני מפואר והרכבתי את הטלפון הנייד שלי עם תוכנת הניווט שאני משתמש בה בעולם מהסיבה שכל המפה בטלפון ולא צריך קשר אינטרנטי קבוע. לידי היו עוד ישאלים שקיבלו את הרכב ואז שמעתי אותם מדברים על הפעלת תוכנת הניווט וויז. מייד הפעלתי את הוויז ואכן הוויז התחיל לעבוד ומוכרח לציין שפעל בצורה יעילה ביותר בכל הכבישונים הקטנים שנסעתי בהם ברומניה כולל הנחיות לעקיפת כבישים סגורים. צריך רק לציין שחודש לפני, החלפתי את תוכנית הטלפון הנייד לתוכנית שבה הכל כלול בארץ ובחו"ל כולל שיחות טלפון ואינטרנט. ואכן חשבון הטלפון התכווץ מאלפי שקלים בחודש, אל תשכחו שאני נוסע לחול כמעט פעמיים בחודש ולא לרומניה, למאה שקלים בלבד. נסענו כ- 2000 ק"מ בשלושה שבועות. הכבישים כמעט כולם ממש טובים אבל מפותלים וכולם נוסעים ממש מהר הם מכירים את הנוף, אני לא. היו מספר כבישים שכמות הבורות כזאת גדולה וכל הזמן התפללתי שהמכונית לא תתפרק למרות שהיתה חדשה. מה שמעניין שהיו מעט מכוניות שנסעו בקבוצות, הראשון הכי איטי, כמובן שזה אני, ואחרי אלה שעוקפים אותי לפעמים הם נראו כרוצים להתאבד וזה ממש הלחיץ אותי, תמיד ירדתי לשוליים לתת להם לעבור. אחר כך אפשר ליסוע חצי שעה ואין אף מכונית מאחורי. זה ממש כיף וניתן להנות מהנוף המהמם.
+
+ואז כשהיינו בנקודה הכי צפונית של הטיול בשום מקום ולאחר נסיעה של שעתיים רצוף רציתי להתאוורר, יצאתי מהרכב והתחלתי להסתובב סביב הרכב ולהתמתח, השעה היתה לפנות ערב עם שקיעה מרהיבה מעל שדות התירס האינסופיים וההרים עם היערות, מזג האוויר היה נעים ורוח קרירה ליטפה את פני. הייתי צמא ופתחתי את מכסה הבגז' להוציא מיים. אישתי ראתה כמה אני נהנה בחוץ והחליטה לצאת גם מהרכב ולהתמתח. איך שיצאה מהרכב וסגרה את הדלת, פתאום בום ועוד בום. אני בודק מה קרה ולהפתעתי הרבה, שתי הדלתות הקידמיות ננעלו. חטפנו שוק, ניסינו לפתוח את כל הדלתות, הכל נעול והכל בפנים כולל הטלפון שלי ושלה.
+
+היינו במקום שהוא שום מקום, הלילה עומד לרדת ואנחנו נמצאים במרחק של 20 ק"מ מהיעד הבא ואין אף רכב חולף. היינו כל כך המומים ששכתי שמכסה הבגז' פתוח. ברגע שהבנתי שיש לנו ממש מזל, הוצאנו את המזוודות מהבגז' ופילסתי דרך לדלת האחורית. מכאן השימחה היתה גדולה.
+
+לכל הסקרנים איך רומניה, הדבר השהכי מעניין היה שאין להם פלסטיקה מסין ורוב המוצרים עשויים מעץ משולב עם מתכת, התאכסנו רק בבתי מלון או בצימרים חדשים, גם במקומות הכי נידחים שביקרנו, הכל מודרני טלווזיות שטוחות, ריצוף גרניט והאוכל הרומני ממש טעים, מומלץ. תזמינו חדרים רק באתרי הזמנת מלונות, כך תקבלו את השירות הכי טוב מפני שאחר כך המארחים הם מצפים שתשבחו את המלון לאורחים הבאים.
+
+לכל אלו שהרכב ננעל להם עם המפתח בפנים, אנא שילחו לי איך נחלצתם.
+
+ומה הקשר להנדסת אמינות, ובכן כל יצרן של מוצר ובמקרה זה מכונית, חייב לבצע ניתוחים הנדסיים הבודקים במקרה זה את בטיחות נעילת הרכב. אני בטוח שיצרן זה לא עשה זאת או לפחות לא הדריך אותי איך להמנע ממצב כזה (למי יש זמן לכאלה הדרכות, אנחנו מצפים שהרכב יתוכנן שמצב כזה לא יקרה, נכון?). כנראה שיצרן זה נתן תשומת לב יותר לבטיחות בתאונה, שזה מעולה, אבל לא למקרה דנן.
+
+למקצוענים בקצרה: יש לאפיין תקלה מערכתית ובמקרה זה "נעילת רכב כאשר המפתח בפנים וכולם בחוץ", לסרוק את כל המעגלים והרכיבים במסלול נעילת הרכב, לאפיין את אופני הכשל שלהם, להתחיל להרכיב פזל של מסלולי פעולה/תקלה ולאתר מסלול שיגרום לנעילה שכולם בחוץ. אם יש מסלול כזה חייבים לבצע שינוי תכנון כך שזה לא יקרה, לפעמים זה בחומרה ולפעמים בתוכנה. יש תוכנות אוטומטיות המבצעות בדיקות תכנון כאלו למשל טכנולוגיית CARE-Computer Aided Reliability Engineering.`,
+  },
+  {
+    slug: "what-is-reliability-engineering",
+    title: "What Is Reliability Engineering",
+    titleHe: "מה זה הנדסת אמינות",
+    excerpt:
+      "A profession and role in high-tech companies that, using statistical methods, helps the development team design a reliable, robust product that will operate over time with minimal faults and maintenance.",
+    excerptHe:
+      "מקצוע ותפקיד בחברות הייטק המיצרות מוצרים אלקטרוניים ו/או מכניים, תוך שימוש בשיטות סטטיסטיות העוזר לצוות הפיתוח לתכנן מוצר אמין ורובסטי שיפעל לאורך זמן במינימום תקלות ותחזוקה.",
+    category: "design-for-reliability",
+    date: "2015-01-14",
+    readTime: 2,
+    content: `A profession and role in high-tech companies that manufacture electronic and/or mechanical products, using statistical methods and methodologies, that helps the development team design a reliable and robust product that will operate over time with minimal faults and maintenance.
+
+The reliability engineer helps improve and ensure the reliability of the final product the company manufactures and markets, and by doing so helps shorten development time and saves a lot of money. Their contribution is mainly in developing new products that use new technologies that have not yet been sufficiently proven in the field.
+
+Reliability engineering is not perceived as an attractive profession, especially in the State of Israel, which is known as the start-up nation. Engineers want to work on developing new products because that is perceived as more prestigious, interesting and full of creativity — a trait we Israelis have been greatly blessed with. I won't get into the marketing trait we so lack.
+
+Therefore, the purpose of this blog is to give development engineers a broad understanding of the field in a simple way, so that managers too can define and engineers can execute.`,
+    contentHe: `מקצוע ותפקיד בחברות הייטק המיצרות מוצרים אלקטרוניים ו/או מכניים, תוך שימוש בשיטות סטטיסטיות ומטודיות העוזר לצוות הפיתוח לתכנן מוצר אמין ורובסטי שיפעל לאורך זמן במינימום תקלות ותחזוקה.
+
+מהנדס האמינות עוזר לשפר ולהבטיח את אמינות המוצר הסופי שהחברה מיצרת ומשווקת ועל ידי כך תורם לקצר את משך הפיתוח וחוסך כסף רב. בעיקר תרומתו בפיתוח מוצרים חדשים העושים שימוש בטכנולוגיות חדשות שעדיין לא הוכחו מספיק בשטח.
+
+הנדסת אמינות לא נתפסת כמקצוע אטרקטיבי ובמיוחד במדינת ישראל שהיא ידועה כמדינת הסטארטאפים. המהנדסים רוצים לעבוד בפיתוח מוצרים חדשים מפני שזה נתפס כיוקרתי יותר, מעניין ובעל יצירתיות רבה, תכונה שאנחנו הישראלים התברכנו בה רבות. אני לא נכנס כאן לחוסר התכונה השיווקית החסרה לנו כל כך.
+
+היות וכך מטרת הבלוג הזה להקנות למהנדסי פיתוח הבנה רחבה על התחום באופן פשוט כך שגם מנהלים יוכלו להגדיר ומהנדסים לבצע.`,
+  },
+  {
+    slug: "spares-calculation-s2c-vs-s2a",
+    title: "Spare-Parts Quantity: \"Warehouse Availability\" vs. \"Production-Line Availability\"",
+    titleHe: "השוואה בין חישוב כמות חלפים לפי \"זמינות החלפים במחסן\" לבין \"זמינות קוו היצור\"",
+    excerpt:
+      "In almost every plant I visit, the spares calculation is done for warehouse availability. But manufacturing plants should instead size spares for production-line availability (S2A) — the traditional Poisson method makes them lose twice.",
+    excerptHe:
+      "כמעט בכל מפעל שבו אני מבקר חישוב החלפים נעשה עבור זמינות החלפים במחסן. אבל מפעל מייצר צריך לחשב חלפים לפי זמינות קו הייצור (S2A) – שיטת פואסון המסורתית גורמת לו להפסיד פעמיים.",
+    category: "maintenance-engineering",
+    date: "2015-01-10",
+    readTime: 5,
+    content: `In almost all the plants I visit, the spares calculation is done for the availability of spares in the warehouse. Is that correct?
+
+In calculating spares you need to distinguish between two types of organizations:
+
+- An organization that provides repair services for products under manufacturer's warranty, such as: Newpan, Electra, Hyundai and others.
+- A plant that manufactures goods, such as: food, beverages, coffee, cars, medicines, gasoline and others.
+
+For a type-1 organization, what matters to us is that the moment a customer arrives with a broken product and we need to repair it, the part is in the warehouse. In order not to fill the warehouse with spares and wait for them to be consumed, we say that a probability of about 90% that the part is in the warehouse when we need it is enough. If the part is missing, we order a new one from the original manufacturer. This may take time, but in no way is the service provider penalized if the part is absent and we have to wait days or even weeks until it arrives. The service provider's only "punishment" is the storage space for the faulty product until the new part is received.
+
+For a type-2 organization, if there is a fault on the production line and we must replace a faulty part, then the production line does not produce output during the downtime. As a result the manufacturer loses production time and the quantity of products produced is smaller. Here the manufacturer is penalized directly through a financial loss, sometimes a significant one.
+
+Traditionally, the spares calculation uses the Poisson formula, which is a mathematical computation loop that calculates the number of loops until the error is small — in our case 10%. The number of computation loops is the required number of spares. This method is called the Poisson method, or more correctly Sparing to Confidence (S2C). That is, a spares calculation that takes into account the availability of the part in the warehouse. For example, in 90% of cases a part is found in the warehouse, and in 10% it is not.
+
+This calculation is correct only for a type-1 organization, not type 2.
+
+A very common mistake — even by very large and respected organizations — is to use the Poisson formula for type-2 organizations.
+
+In fact, for type-2 organizations, you should use the Sparing to Availability (S2A) method. This means that the quantity of parts in the warehouse should provide the availability of the production line, not of the warehouse.
+
+As noted, type-2 organizations using the Poisson method lose twice: the quantity of spares in the warehouse will always be larger than needed (an unnecessary financial cost), and on the other hand the availability of the production line will always be lower, because for the critical spares there are fewer in the warehouse (and here the loss is in downtime hours that cause loss of production capacity).
+
+There is another very important parameter to take into account in the spares calculation: whether the part is repairable or not (in which case you need to buy new spares). For this you should use an analysis called LORA (Level of Repair Optimization), which is a maintenance-levels analysis. As a result, for a repairable part we'll need a certain small quantity of spares to fill the pipeline, and then when a part breaks down, a working part is pulled from the warehouse, the faulty part is sent for repair and then returned to the warehouse. Non-repairable, i.e., consumable spares must be ordered regularly.
+
+Proper use of the S2A or S2C model and of LORA will yield a proven 30% saving in the organization's maintenance cost.
+
+In fact, an optimal spares calculation will result in the warehouse being almost always empty, with spares arriving just before they are needed.
+
+Of course, for this you also need to define a maintenance concept for corrective, preventive and predictive maintenance.
+
+Combining all these elements will significantly reduce the maintenance cost.
+
+In fact, in all the plants I've encountered, no one implemented the ERP (Asset Management) systems properly, so the entire data-recording system is inefficient and not ready for the next stage of optimization.
+
+All ERP systems calculate the spares quantity using the Poisson method and based on the average failure rate, which always leads to an increase in maintenance expenses without knowing where and how savings can be made.`,
+    contentHe: `כמעט ברוב המפעלים שבהם אני מבקר חישוב החלפים נעשה עבור זמינות החלפים במחסן, האם זה נכון
+
+בחישוב חלפים צריך להפריד בין שני סוגי אירגונים:
+
+- אירגון העוסק במתן שירות תיקונים למוצרים במסגרת אחריות יצרן כגון: חברת ניופאן, אלקטרה, יונדאי ואחרים.
+- מפעל המיצר תוצרת כגון: מזון, משקאות, קפה, מכוניות, תרופות, בנזין ואחרים.
+
+עבור אירגון מסוג 1, מה שמעניין אותנו זה שברגע שיגיע לקוח עם מוצר מקולקל ונצטרך לתקן, החלק יהיה במחסן. על מנת לא למלא את המחסן בחלפים ולחכות שיצרכו אותם, אנו אומרים שמספיק לנו בהסתברות של בערך 90% שהחלק יהיה במחסן כשנצטרך אותו. במידה והחלק חסר אנחנו מזמינים חדש מהיצרן המקורי. זה עלול לקחת זמן אך בשום אופן נותן השירות לא נקנס אם החלק איננו ואנו נאלצים להמתין ימים ואפילו שבועות עד שהוא יגיע. ה"עונש" היחיד של נותן השירות הוא מקום האחסנה של המוצר התקול עד שיתקבל החלק החדש.
+
+עבור אירגון מסוג 2, אם יש תקלה בקוו היצור ואנו חייבים להחליף חלק תקול, אז קוו היצור לא מייצר תפוקה בזמן ההשבתה. כתוצאה מכן מפסיד היצרן זמן יצור וכמות המוצרים המיוצרת קטנה יותר. כאן נקנס היצרן באופן ישיר ע"י הפסד כספי ולפעמים ניכר.
+
+באופן מסורתי חישוב חלפים עושה שימוש בנוסחאת פואסון שהיא לולאת חישוב מתמתית המחשבת את מספר הלולאות עד שהשגיאה קטנה, במקרה שלנו 10%. מספר לולאות החישוב הם כמות החלפים הדרושה. שיטה זאת נקראת שיטת פואסון או במונח יותר נכון Sparing to Confidence) S2C). כלומר חישוב חלקים הלוקח בחשבון את זמינות החלק במחסן. למשל ב-90% מהמקרים נמצא חלק במחסן וב-10% מהמקרים לא נמצא.
+
+חישוב זה נכון רק לאירגון מסוג 1 ולא מסוג 2.
+
+טעות נפוצה מאוד וגם ע"י אירגונים גדולים מאוד ומכובדים היא להשתמש בנוסאת פואסון עבור אירגונים מסוג 2.
+
+למעשה עבור אירגונים מסוג 2, צריך להשתמש בשיטת Sparing to Availability) S2A). וזה אומר שכמות החלקים במחסן צריכה לספק את זמינות קוו היצור ולא את המחסן.
+
+כאמור אירגונים מסוג 2, המשתמשים בשיטת הפואסון מפסידים פעמיים, כמות החלפים במחסן תמיד תהיה גדולה יותר מהנדרש (עלות כספית מיותרת) ומצד שני הזמינות של קוו היצור תמיד קטנה יותר וזאת בגלל שעבור החלפים הקריטיים יש פחות במחסן (וכאן ההפסד הוא בשעות השבתה הגורמות לאיבוד יכולת יצור).
+
+יש עוד פרמטר חשוב מאוד שצריך לקחת בחשבון עבור חישוב החלפים וזה האם החלק הוא שפיץ (ניתן לתיקון) או לא (ואז צריך לקנות חלפים חדשים). לצורך כך יש להשתמש באנליזה הנקראת (LORO (Level of Repair Optimization, שהיא אנליזת רמות אחזקה. כתוצאה מכך עבור חלק שפיץ נצטרך כמות חלפים מסויימת וקטנה על מנת למלא את ה- Pipe-line בחלפים ואז כאשר חלק מתקלקל מושכים מהמחסן חלק תקין, את החלק התקול שולחים לתיקון ואחר כך מחזירים אותו חזרה למחסן. חלפים לא שפיצים, כלומר נצרכים, צריכים להזמין באופן קבוע.
+
+שימוש נכון במודל S2A או S2C וב- LORO יביאו חסכון מוכח של 30% בעלות האחזקה של האירגון.
+
+למעשה חישוב אופטימלי של חלפים יגרום לכך שהמחסן ריק כמעט תמיד והחלפים יגיעו רגע לפני שצריך אותם.
+
+כמובן שלצורך כך נדרש גם להגדיר קונספט אחזקה לאחזקה מתקנת, מונעת וחזוייה.
+
+שילוב של כל האלמנטים האלו יוזילו משמעותית את עלות האחזקה.
+
+למעשה בכל המפעלים שפגשתי אף אחד לא מישם את מערכות ה- (ERP   (Asset Management כראוי, כך שכל מערך רישום הנתונים לא יעיל ואינו מוכן לשלב הבא של האופטימיזציה.
+
+כל מערכות ה-ERP מחשבות את כמות החלפים בשיטת פואסון ועל פי קצב התקלות הממוצע, דבר שמוביל תמיד לעליה בהוצאות האחזקה מבלי לדעת היכן ואיך ניתן לחסוך.`,
+  },
+  {
+    slug: "home-safety",
+    title: "Home Safety",
+    titleHe: "בטיחות בבית",
+    excerpt:
+      "Today there are many devices that can help reduce risks at home from faults in electricity, water, gas and fire. In this article I gather recommendations that will help us live in a safer home.",
+    excerptHe:
+      "כיום יש הרבה אביזרים אשר יכולים לעזור לנו להוריד סיכונים בבית כתוצאה מתקלות מחשמל, מיים, גז ואש. במאמר זה אנסה לרכז המלצות שיעזרו לנו לחיות בבית בטוח.",
+    category: "reliability-safety",
+    date: "2015-01-10",
+    readTime: 5,
+    content: `Today there are many devices that can help us reduce risks at home resulting from faults in electricity, water, gas and fire. There are also many standards that require products or home design so that we are safe from dangers and accidents.
+
+The home we live in is complex and contains a great many appliances, conveniences and systems that require attention to their proper functioning, because it concerns our lives. Various faults in these systems can cause disasters.
+
+In this article I'll try to gather recommendations that will help us live in a safe home.
+
+**A few home devices:**
+
+Smoke detector — there are two types: optical detection using an LED and a sensor (if smoke enters, light doesn't pass through and there's an alert), and detection by electrical ions. It's advisable to use both types for redundancy. Place one in every room and on every floor in the stairwell. The detectors are good for 10 years, after which they must be replaced.
+
+Residual-current devices (RCDs) — the electrical panel must have RCDs installed. Their job is to cut off the electricity if someone is electrocuted. Test the breakers every six months by pressing the test button; the test simulates electrocution and will cut off the power. The test is needed because sometimes the breaker contacts stick and don't allow the power to be cut during electrocution. Remember to do it before Rosh Hashanah and before Passover. You should also do a one-time check of all the sockets in the house to see whether the connections are correct, including grounding. There is a small device that looks like a yellow plug, which lights a green light if the connections are correct and red if not.
+
+Water-leak detector — this product is relatively new on the market and also expensive. The advantage is that if you're away for a period and there's a burst pipe, the system will shut off the water to the house. The device will also help detect small leaks such as dripping faucets or toilet cisterns, so you can also save water.
+
+**Below are additional accessories:**
+
+Bars on the windows in a home with small children; you should also raise balcony railings. Make sure the gap between the bars is small enough and per the standard's requirement, since small children can put their head through and get stuck.
+
+Anti-slip flooring — in bathrooms or toilets it's advisable that the ceramic floor be slightly textured to prevent slipping. It's also advisable to choose a not-too-smooth ceramic floor for the house.
+
+Stairs — make sure stairs have a railing on at least one side along the entire flight so you can hold on to it.
+
+Clothes — most clothes today come soaked in a fire-retardant substance, so you need to wash them before first use to remove residues of the substance, which is not good for your health. After the first wash the garment is safe to use.
+
+Chargers — make sure to use electronic chargers and not ones with a transformer. You can tell an electronic transformer is very light and also suits the 110–220V range, whereas a transformer is heavy and suits only 220V. Don't put a charger near your head in bed; keep at least half a meter from the body.
+
+Adjustable beds — use electronic transformers with electrical radiation close to zero.
+
+Microwave — when it's operating, keep a distance of at least one meter.
+
+Television — it's advisable to buy a TV with the green-leaf mark that ensures electricity savings; for example, the TV turns off after 3 hours of viewing — if you're watching, you get an alert and a short press on the remote keeps it running; if you're no longer watching, it turns off and saves electricity.
+
+Gas burners — make sure to replace each year the sensors that come with the cooktops that shut off the gas if there's no flame. The replacement is done for free if you're connected to a serious company that supplies the gas. They call and arrange a visit for the replacement, and on the same occasion also replace the gas rubber hose.
+
+Cooking — keep a timer with which you set how long you want to cook, and at the end of the time the timer rings loudly so you can turn off the cooktop and not burn the food. There are smarter cooktops that include a timer that turns off the flame according to your set time.
+
+Note: this post is for recommendation only; the responsibility for proper implementation according to the standards is on the reader.`,
+    contentHe: `כיום יש הרבה אביזרים אשר יכולים לעזור לנו להוריד סיכונים בבית כתוצאה מתקלות מחשמל, מיים, גז ואש. כמו כן יש הרבה מאוד תקנים המחייבים מוצרים או תכנון הבית כך שנהיה בטוחים מפני סכנות ותאונות.
+
+הבית שבו אנו גרים מורכב ומכיל הרבה מאוד מכשירים, אמצעי נוחות ומערכות הדורשות תשומת לב לתקינותם מפני שהדבר כרוך בחיינו. תקלות שונות במערכות אלו יכולים לגרום לאסונות.
+
+במאמר זה אנסה לרכז המלצות שיעזרו לנו לחיות בבית בטוח.
+
+**מספר אביזרים לבית:**
+
+גלאי עשן, יש שני סוגים, גילוי אופטי ע"י נורת לד עם גלאי, אם נכנס עשן אין מעבר אור ויש התראה, השני גילוי ע"י יונים חשמליים. רצוי להשתמש בשני הסוגים לצורך יתירות. יש לשים בכל חדר ובכל קומה בחדר המדרגות. הגלאים טובים ל-10 שנים אחר כך צריך להחליפם.
+
+מפסקי פחת, בארון החשמל חייבים להיות מותקנים מפסקי פחת. תפקידם לנתק את החשמל במידה ומישהוא מתחשמל. יש לבדוק את המפסקים כל חצי שנה ע"י לחיצה על לחצן הבדיקה, הבדיקה מסמלצת התחשמלות ותנתק את החשמל. הבדיקה נחוצה מפני שלפעמים מגעי המפסק נדבקים ולא מתאפשר ניתוק החשמל בעת התחשמלות. תזכרו לפני ראש השנה ולפני פסח. כמו כן יש לבדוק חד פעמי את כל השקעים בבית אם החיבורים נכונים כולל הארקה. יש מכשיר קטן של חברת וויסבורד הנראה כמו תקע צהוב אשר ידליק נורית ירוקה עם החיבורים נכונים ואדומה אם לא.
+
+גלאי נזילת מיים, מוצר זה חדש יחסית בשוק וגם יקר. היתרון שאם אתם לא בבית תקופה ויש פיצוץ בצינור המערכת תנתק את המיים לבית. המכשיר גם יעזור לאתר נזילות קטנות כגון ברזים או ניאגרות דולפים וכך גם ניתן לחסוך במיים.
+
+**להלן אביזרים נוספים:**
+
+סורגים לחלונות בבית שיש בו ילדים קטנים, כמו כן יש להגביה מעקות של מרפסות. יש להקפיד שהרווח בין הסורגים קטן מספיק ולפי דרישת התקן, שכן ילדים קטנים יכולים להכניס ראש ולהתקע.
+
+רצפה נגד החלקה, באמבטיות או בשירותים רצוי שרצפת הקרמיקה תהיה מעט מחוספסת למניעת החלקה. כמו כן רצוי לבחור לבית רצפת קרמיקה לא חלקה מידי למניעת החלקה.
+
+מדרגות, יש להקפיד במדרגות שלפחות בצד אחד יש מעקה לאורך כל המדרגות כך שיהיה ניתן לאחוז בו.
+
+בגדים, רוב הבגדים כיום באים ספוגים בחומר נגד בעירה, ולכן יש צורך לכבס את הבגדים לפני השימוש הראשון להורדת שאריות מהחומר שאינו טוב לבריאות. לאחר הכביסה הראשונה הבגד בטוח לשימוש.
+
+מטענים, יש להקפיד להשתמש במטענים אלקטרוניים ולא עם שנאי. ניתן להבחין ששנאי אלקטרוני קל מאוד וגם מתאים לתחום 110-220V לעומת שנאי שהוא כבד ומתאים רק ל 220V. אין לשים מטען ליד הראש במיטה. יש להקפיד לפחות מרחק של חצי מטר מגוף האדם.
+
+מיטות מתכוונות, יש להשתש בשנאים אלקטרוניים עם קרינה חשמלית קרובה לאפס.
+
+מיקרוגל, בזמן ההפעלה יש לתפוס מרחק של מטר לפחות.
+
+טלוויזיה, רצוי לרכוש טלוויזיה עם סימן העלה הירוק שמבטיח חסכון בחשמל, לדוגמא, הטלווזיה כבית לאחר 3 שעות צפיה, אם צופים בטלוויזיה מקבלים התראה וע"י לחיצה קצרה על השלט היא תמשיך לפעול. אם אנו לו צופים יותר, היא תכבה ותחסוך לנו חשמל.
+
+מבערי גז, יש להקפיד להחליף כל שנה את הגלאים הבאים עם הכיריים שסוגרים את הגז אם אין אש. ההחלפה נעשית בחינם אם אתם מחוברים לחברה רצינית המספקת את הגז. הם מתקשרים ומתאמים ביקור להחלפה ובאותו הזדמנות מחליפים גם את צינור הגומי של הגז.
+
+בישול, יש להחזיק שעון עצר שבו מכוונים כמה זמן אנחנו רוצים לבשל ובתום הזמן השעון מצלצל בחוזקה כך שנוכל לכבות את הכיריים ולא לשרוף את האוכל. יש כיריים חכמות יותר שכוללות שעון אשר יכבה את האש לפי כיוון הזמן שלנו.
+
+הערה: פוסט זה הוא להמלצה בלבד, האחריות לביצוע נכון לפי התקנים הוא על הקורא.`,
+  },
+  {
+    slug: "safe-driving",
+    title: "Safe Driving",
+    titleHe: "בטיחות בנסיעה",
+    excerpt:
+      "Thirty years ago, on one of my first trips to Germany, I had to merge into fast traffic — and the drivers' reaction taught me how different our driving culture really is.",
+    excerptHe:
+      "לפני כשלושים שנה, באחת מנסיעותי הראשונות לגרמניה, נאלצתי להשתלב בתנועה מהירה – ותגובת הנהגים לימדה אותי כמה שונה תרבות הנהיגה שלנו.",
+    category: "reliability-safety",
+    date: "2014-12-24",
+    readTime: 3,
+    content: `About thirty years ago, on one of my first trips to Germany, I was driving on one of the highways with 5 lanes; I was driving in the fourth lane and left the fifth lane to the "pilots" (the speeders).
+
+Suddenly I saw a sign that the five lanes become two lanes in about 5 km.
+
+As an Israeli with our driving culture, when I hadn't yet learned foreign cultures and especially the German one, I thought to myself: we'll keep driving up to the point where there are two lanes and then I'll enter (or more precisely, push) into the second lane.
+
+After driving about two km, I saw that all the cars were orderly and driving in the first and second lanes.
+
+I moved to the third lane while the cars orderly in the first and second lanes were driving about 120 km/h, a bit faster than I was. I still kept driving in the third lane, but immediately thought how I'd push into a convoy going 120 km/h — surely an accident would happen — and I really began to fear and slowed my driving speed.
+
+When I had no choice but to continue toward the field or push to the right, I turned on my signal, hoping for a miracle that they wouldn't honk at me and would let me in.
+
+To my utter surprise (in Israel I'd have gotten a barrage of honks and "blessings" from all the drivers around, not to mention a real danger of an accident), all the drivers in the right lane began to slow down without honking and gave me appropriate room to enter safely.
+
+I was completely stunned (remember, this was about 30 years ago at the start of my travels abroad).
+
+In the evening I was invited by my German host, a senior manager at a large high-tech plant, to a pub. After a few beers, when I saw the host was happy and good-natured (I drank mainly water and tea), I decided to dare and ask him: "Why did the drivers let me in so easily, without curses and honks?" And he answered me, still in the spirit of the beers: "If you're irresponsible and endanger your own life, we're not willing to endanger ours, so we let you in safely; after all, our lives are important, so why endanger them? We'll lose maybe one second at most, but the drive will be safe and, most importantly, calm. We have no ego games and no need to show who's tougher."
+
+That evening I understood how different our driving culture is.
+
+To this day, when I return from abroad it takes me a few days to get used to the "when in Rome, drive as the Romans do" mode. Nevertheless, when I see a car signaling and trying to enter my lane, I let it in safely and don't think about what a sucker I am that it pushed in front of me.
+
+In one of the next blogs I'll tell about how unnecessary traffic jams are created.`,
+    contentHe: `לפני כשלושים שנה באחת מנסיעותי הראשונות לגרמניה נהגתי ברכב באחד מהכבישים המהירים עם 5 נתיבים, אני נסעתי בנתיב הרביעי והשארתי את הנתיב החמישי לטייסים.
+
+לפתע ראיתי תמרור שחמשת הנתיבים הופכים לשני נתיבים עוד כ-5 ק"מ.
+
+כישראלי עם תרבות הנהיגה שלנו, כאשר עדיין לא למדתי את התרבויות הזרות ובמיוחד את הגרמנית, חשבתי בליבי נמשיך ליסוע עד הנקודה שבה יהיו שני נתיבים ואז אכנס (או ליתר דיוק אדחף) לנתיב השני.
+
+אחרי נסיעה של כשני ק"מ ראיתי שכל המכוניות מסודרות ונוסעות בנתיב הראשון והשני.
+
+עברתי לנתיב השלישי כאשר המכוניות המסודרות בנתיב הראשון והשני נוסעות כ 120 קמ"ש, קצת יותר מהר ממה שנסעתי, עדיין המשכתי ליסוע בנתיב השלישי אך מייד חשבתי איך אדחף לתוך שיירה שנוסעת 120 קמ"ש, בטח תקרה תאונה וממש התחלתי לחשוש והאטתי את מהירות הנסיעה.
+
+כאשר לא היתה לי ברירה אלא להמשיך לכיוון השדה או להדחף ימינה, הפעלתי את האיתות בתקווה לנס ושלא יצפרו לי ושיתנו לי להכנס.
+
+להפתעתי הגמורה ( בארץ הייתי מקבל צרור צפירות וברכות מכל הנהגים מסביב שלא לדבר על סכנה מוחשית לתאונה) החלו כל הנהגים בנתיב הימיני להאט ללא צפירות ונתנו לי מרחב מתאים להכנס בבטחה.
+
+הייתי המום לגמרי (תזכרו זה היה לפני כ 30 שנה בראשית נסיעותי בחול).
+
+בערב הוזמנתי ע"י המארח הגרמני שהיה מנהל בכיר במפעל הייטק גדול לפאב. אחרי מספר בירות שראיתי שהמארח שמח וטוב לבב, (אני שתיתי בעיקר מים ותה) החלטתי להעיז ולשאול אותו " מדוע הנהגים נתנו לי להכנס ככה בקלות ללא גידופים וצפירות", ואז הוא ענה לי עדיין ברוח הבירות "אם אתה חסר אחריות ומסכן את חייך אנחנו לא מוכנים לסכן את חיינו ולכן ניתן לך להכנס בביטחה, והרי החיים שלנו חשובים ולמה לסכן אותם, ממילא נפסיד אולי שניה אחת אבל הנסיעה תהיה בטוחה והכי חשוב רגועה, אין לנו משחקי אגו ואין לנו צורך להראות מי יותר קשוח".
+
+באותו ערב הבנתי כמה תרבות הנהיגה שלנו שונה.
+
+עד היום כאשר אני חוזר מחו"ל לוקח לי כמה ימים להתרגל למצב "ברומא תיסע כרומאי".  למרות זאת, כשאני רואה רכב מאותת ומנסה להכנס למסלול שלי אני מאפשר לו כניסה בטוחה ולא חושב איזה פרייר אני שהוא נדחף לי.
+
+באחד הבלוגים הבאים אספר על איך נוצרים פקקי תנועה מיותרים.`,
+  },
+  {
+    slug: "automatic-reliability-maintainability-analysis-care",
+    title: "Automatic Reliability and Maintainability Analyses – Vision or Reality",
+    titleHe: "ניתוחי אמינות ותחזוקתיות אוטומטיים – חזון או מציאות",
+    excerpt:
+      "The bottleneck in reliability and maintainability analyses is data collection, the long time the analyses take, and keeping reports updated through design changes. The CARE concept performs the analyses directly from the CAD database.",
+    excerptHe:
+      "צוואר הבקבוק בניתוחי אמינות ותחזוקתיות הוא איסוף הנתונים, הזמן הממושך לביצוע הניתוחים, והיכולת לעדכן את הדוחות עקב שינויי תכן. קונספט CARE מבצע את הניתוחים ישירות מבסיס הנתונים של התיב\"מ.",
+    category: "design-for-reliability",
+    date: "2014-12-21",
+    readTime: 3,
+    content: `The bottleneck in reliability and maintainability (R&M) analyses is characterized by three points:
+
+1. Collecting the design data
+2. The lengthy time required to perform the analyses
+3. The ability to update the reports due to design changes.
+
+This situation causes the R&M analyses to be completed long after development is finished, and not to be updated in time due to design changes. As a result, the goal for which the analyses are performed is not achieved.
+
+In most electronics plants, the development engineers use CAD. In fact, all the information the reliability engineer needs is in the CAD database. In this article we'll demonstrate how an R&M analysis can be performed directly from the CAD database, using a concept called CARE —
+
+Computer Aided Reliability Engineering
+
+The CARE concept suits all types of computers and adapts itself to all types of CAD.
+
+In this concept, the reliability engineer defines the R&M requirements for the project using libraries.
+
+The library method allows reuse of a library defined in one project in another project, for example: a Failure Classification library suitable for aircraft, for ships, or for civilian products; a BIT Concept library suitable for different maintenance regimes (navy, air force).
+
+The reliability engineer also defines the hierarchical tree of the developed product and assigns to each Block specific requirements or requirements from the library. From this stage the connection to the CAD database is made, and the product tree updates automatically if the design changes.
+
+From this moment, every development engineer receives in real time, on their workstation screen, the results of the R&M analyses of the assembly they're developing, with highlighting of out-of-spec results. In parallel, the reliability engineer receives the results of the entire project and can initiate inquiries to the development engineers as needed and produce the final reports directly.
+
+The project manager also receives the results in a concise form — requirements vs. results and a short list of the problems.
+
+CARE allows the following analyses to be performed automatically: MTBF, stress derating, FMECA, FMEA, maintainability analyses and BIT, and provides data for LSAR and LCC.
+
+Even if the user has no CAD tool, using CARE will shorten the analysis process by using the artificial-intelligence mechanisms developed for using CARE in a CAD environment.`,
+    contentHe: `צוואר הבקבוק בניתוחי אמינות ותחזוקתיות (או"ת) מאופיין בשלושה נקודות :
+
+1. איסוף נתוני התכן
+
+2. הזמן הממושך הדרוש לביצוע הניתוחים
+
+3. היכולת לעדכן את הדוחות עקב שינויי תכן.
+
+מצב זה גורם לכך שניתוחי האו"ת מסתימים זמן רב אחרי סיום הפיתוח, ולא מתעדכנים בזמן עקב שינויי תכו. כתוצאה מכך לא מושגת המטרה שלשמה מבצעים את הניתוחים.
+
+ברוב מפעלי האלקטרוניקה משתמשים מהנדסי הפיתוח בתיב"מ. למעשה כל המידע שמהנדס האמינות זקוק לו נמצא בבסיס הנתונים של התיב"מ. במאמר זה נדגים כיצד ניתן לבצע ניתוח או"ת ישירות מבסיס הנתונים של התיב"מ תוך שימוש בקונספט הנקרא CARE –
+
+Computer Aided Reliability Engineering
+
+קונספט CARE מתאים לכל סוגי המחשבים ומתאים את עמצו לכל סוגי התיב"מ.
+
+בקונספט זה מגדיר מהנדס האמינות את דרישות האו"ת לפרויקט ע"י שימוש בסיפריות.
+
+שיטת הסיפריות מאפשרת שימוש חוזר של ספריה שהוגדרה בפרויקט מסויים בפרויקט אחר לדוגמא :
+
+ספריית Failure Classification  המתאימה למטוסים, לאוניות או למוצרים אזרחיים. ספרית BIT Concept המתאימה למשטרי תחזוקה שונים (חיל ים, חיל אויר).
+
+כמו כן מגדיר מהנדס האמינות את העץ ההיררכי של המוצר המפותח ומשייך לכל Block דרישות ספיציפיות או דרישות מהספריה. משלב זה נעשית ההתחברות לבסיס הנתונים של התיב"מ, ועץ המוצר יתעדכן אוטומטית אם משתנה התכן.
+
+מרגע זה כל מהנדס פיתוח מקבל ב Real-Time  על מסך תחנת העבודה שלו את תוצאות ניתוחי האו"ת של המכלול המפותח על ידו עם הדגשה של תוצאות חריגות. במקביל יקבל מהנדס האמינות את התוצאות של כל הפרוייקט, ויוכל ליזום פניות למהנדסי הפיתוח במידת הצורך ולהפיק ישירות את הדוחות הסופיים.
+
+מנהל הפרויקט יקבל אף הוא את התוצאות בצורה תמציתית, דרישות כנגד תוצאות ורשימה קצרה של הבעיות.
+
+CARE מאפשר לבצע אוטומטית את הניתוחים הבאים : MTBF, הפחתת מאמצים, FMECA, FMEA ניתוחי תחזוקתיות ו-BIT, ומספק נתונים עבור LSAR ו-LCC .
+
+גם עם אין למשתמש כלי תיב"מ יקצר השימוש ב-CARE את תהליך הניתוחים ע"י שימוש במנגנוני האינטליגנציה המלאכותית שפותחו עבור שימוש CARE בסביבת תיב"מ.`,
+  },
 ];
 
 export function getArticlesByCategory(category: Category): Article[] {

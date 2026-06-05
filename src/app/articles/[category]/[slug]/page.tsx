@@ -14,15 +14,17 @@ export function generateStaticParams() {
   return articles.map((a) => ({ category: a.category, slug: a.slug }));
 }
 
-export async function generateMetadata({ params }: { params: { category: string; slug: string } }): Promise<Metadata> {
-  const article = getArticleBySlug(params.slug);
+export async function generateMetadata({ params }: { params: Promise<{ category: string; slug: string }> }): Promise<Metadata> {
+  const { slug } = await params;
+  const article = getArticleBySlug(slug);
   if (!article) return { title: "Not Found" };
   return { title: `${article.title} – Yizhak Bot`, description: article.excerpt };
 }
 
-export default function ArticlePage({ params }: { params: { category: string; slug: string } }) {
-  const article = getArticleBySlug(params.slug);
-  if (!article || article.category !== params.category) notFound();
+export default async function ArticlePage({ params }: { params: Promise<{ category: string; slug: string }> }) {
+  const { category, slug } = await params;
+  const article = getArticleBySlug(slug);
+  if (!article || article.category !== category) notFound();
 
   const related = articles
     .filter((a) => a.category === article.category && a.slug !== article.slug)

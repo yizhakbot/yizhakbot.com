@@ -14,15 +14,17 @@ export function generateStaticParams() {
   return validCategories.map((category) => ({ category }));
 }
 
-export async function generateMetadata({ params }: { params: { category: string } }): Promise<Metadata> {
-  if (!validCategories.includes(params.category as Category)) return { title: "Not Found" };
-  const cat = params.category as Category;
+export async function generateMetadata({ params }: { params: Promise<{ category: string }> }): Promise<Metadata> {
+  const { category } = await params;
+  if (!validCategories.includes(category as Category)) return { title: "Not Found" };
+  const cat = category as Category;
   return { title: `${categoryLabels[cat].en} – Yizhak Bot` };
 }
 
-export default function CategoryPage({ params }: { params: { category: string } }) {
-  if (!validCategories.includes(params.category as Category)) notFound();
-  const cat = params.category as Category;
+export default async function CategoryPage({ params }: { params: Promise<{ category: string }> }) {
+  const { category } = await params;
+  if (!validCategories.includes(category as Category)) notFound();
+  const cat = category as Category;
   const catArticles = getArticlesByCategory(cat).sort(
     (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
   );

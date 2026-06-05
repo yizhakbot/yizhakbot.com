@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { categoryLabels, type Category, getArticlesByCategory } from "@/data/articles";
-import ArticleCard from "@/components/ArticleCard";
+import { categoryLabels, type Category, getArticlesByCategory, formatDate } from "@/data/articles";
 import Sidebar from "@/components/Sidebar";
+import ArticleBody from "@/components/ArticleBody";
 
 const validCategories: Category[] = [
   "design-for-reliability",
@@ -35,11 +35,39 @@ export default async function CategoryPage({ params }: { params: Promise<{ categ
 
       <div className="flex flex-col md:flex-row">
         <div className="flex-1 px-6 py-6 min-w-0">
-          <h1 style={{ fontSize: 18, fontWeight: 700, color: "#333", marginBottom: 20, paddingBottom: 8, borderBottom: "1px solid #e5e5e5" }}>
-            {categoryLabels[cat].en}
-          </h1>
-          {catArticles.map((article) => (
-            <ArticleCard key={article.slug} article={article} />
+          {catArticles.map((article, idx) => (
+            <article
+              key={article.slug}
+              className={idx > 0 ? "mt-10 pt-8 border-t border-divider" : ""}
+            >
+              <h1 className="text-xl font-semibold text-text-main mb-3 leading-snug">
+                {article.title}
+              </h1>
+
+              <p className="text-xs text-text-light mb-1">
+                By Yizhak Bot <span className="mx-1">|</span> articles
+              </p>
+              <p className="mb-4">
+                <span className="category-tag">{categoryLabels[cat].en}</span>
+                <span className="text-xs text-text-light ml-3">
+                  {formatDate(article.date)} &middot; {article.readTime} min read
+                </span>
+              </p>
+
+              {/* Full article shown immediately */}
+              <ArticleBody content={article.content} />
+
+              {/* Author */}
+              <div className="border-t border-divider mt-6 pt-4">
+                <p className="text-xs text-text-secondary">
+                  <strong>Yizhak Bot</strong> is the President &amp; CTO of{" "}
+                  <a href="https://www.bqr.com" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">
+                    BQR Reliability Engineering Ltd.
+                  </a>{" "}
+                  with over 25 years in RAMS and ILS engineering.
+                </p>
+              </div>
+            </article>
           ))}
         </div>
 

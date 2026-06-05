@@ -9,6 +9,7 @@ import {
   type Category,
 } from "@/data/articles";
 import Sidebar from "@/components/Sidebar";
+import ArticleBody from "@/components/ArticleBody";
 
 export function generateStaticParams() {
   return articles.map((a) => ({ category: a.category, slug: a.slug }));
@@ -29,8 +30,6 @@ export default async function ArticlePage({ params }: { params: Promise<{ catego
   const related = articles
     .filter((a) => a.category === article.category && a.slug !== article.slug)
     .slice(0, 3);
-
-  const contentBlocks = article.content.trim().split("\n\n").filter(Boolean);
 
   return (
     <div className="bg-white">
@@ -64,27 +63,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ catego
             </span>
           </p>
 
-          <div className="article-body">
-            {contentBlocks.map((block, i) => {
-              if (block.startsWith("## ")) return <h2 key={i}>{block.replace("## ", "")}</h2>;
-              if (block.startsWith("### ")) return <h3 key={i}>{block.replace("### ", "")}</h3>;
-              if (block.startsWith("> ")) return (
-                <blockquote key={i}>{block.replace(/^> /, "")}</blockquote>
-              );
-              if (/^- /m.test(block)) {
-                const items = block.split("\n").filter((l) => l.trim());
-                return (
-                  <ul key={i}>
-                    {items.map((item, j) => (
-                      <li key={j}>{item.replace(/^-\s*/, "")}</li>
-                    ))}
-                  </ul>
-                );
-              }
-              const html = block.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
-              return <p key={i} dangerouslySetInnerHTML={{ __html: html }} />;
-            })}
-          </div>
+          <ArticleBody content={article.content} />
 
           {/* Author */}
           <div className="border-t border-divider mt-6 pt-4">

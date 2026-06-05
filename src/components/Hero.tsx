@@ -48,7 +48,11 @@ export default function Hero({ lang = "en" }: { lang?: "en" | "he" }) {
           alt="Yizhak Bot"
           fill
           priority
-          style={{ objectFit: "contain", objectPosition: he ? "left bottom" : "right bottom" }}
+          style={{
+            objectFit: "contain",
+            objectPosition: he ? "left bottom" : "right bottom",
+            transform: he ? "scaleX(-1)" : undefined,
+          }}
         />
       </div>
 

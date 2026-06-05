@@ -71,12 +71,12 @@ export default async function ArticlePage({ params }: { params: Promise<{ catego
               if (block.startsWith("> ")) return (
                 <blockquote key={i}>{block.replace(/^> /, "")}</blockquote>
               );
-              if (block.match(/^[-\d]/m)) {
-                const items = block.split("\n").filter(Boolean);
+              if (/^- /m.test(block)) {
+                const items = block.split("\n").filter((l) => l.trim());
                 return (
                   <ul key={i}>
                     {items.map((item, j) => (
-                      <li key={j}>{item.replace(/^[-\d.]+\s*/, "")}</li>
+                      <li key={j}>{item.replace(/^-\s*/, "")}</li>
                     ))}
                   </ul>
                 );

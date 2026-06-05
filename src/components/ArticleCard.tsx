@@ -39,14 +39,16 @@ export default function ArticleCard({ article, lang = "en" }: ArticleCardProps) 
 
       {/* Excerpt — full paragraphs like original */}
       <div style={{ fontSize: 13, color: "#444", lineHeight: 1.7 }}>
-        {article.excerpt.split(". ").map((sentence, i, arr) => {
-          if (!sentence.trim()) return null;
-          return (
-            <p key={i} style={{ marginBottom: 10 }}>
-              {sentence.trim()}{i < arr.length - 1 ? "." : ""}
-            </p>
-          );
-        })}
+        {(lang === "he" && article.excerptHe ? article.excerptHe : article.excerpt)
+          .split(/\n{2,}/)
+          .map((para, i) => {
+            if (!para.trim()) return null;
+            return (
+              <p key={i} style={{ marginBottom: 10 }}>
+                {para.trim()}
+              </p>
+            );
+          })}
       </div>
 
       {/* Details link + date — matches original bottom row */}

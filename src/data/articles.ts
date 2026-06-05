@@ -1150,6 +1150,152 @@ CARE מאפשר לבצע אוטומטית את הניתוחים הבאים : MTB
 
 גם עם אין למשתמש כלי תיב"מ יקצר השימוש ב-CARE את תהליך הניתוחים ע"י שימוש במנגנוני האינטליגנציה המלאכותית שפותחו עבור שימוש CARE בסביבת תיב"מ.`,
   },
+  {
+    slug: "no-fault-found-telecom-synthelyzer",
+    title:
+      "No Fault Found (NFF) in the Telecom Industry — and How BQR's Synthelyzer Saves You Money",
+    titleHe:
+      "תקלה לא נמצאה (NFF) בתעשיית התקשורת — וכיצד Synthelyzer של BQR חוסך לכם כסף",
+    excerpt: `No Fault Found (NFF) — also called No Failure Found or No Trouble Found — is one of the most expensive and least understood problems in the telecom industry. A unit is pulled from the field because it "failed", shipped back, tested on the bench, and… nothing is wrong with it. The board passes every test and is returned to stock or back to the customer, only for the symptom to reappear weeks later. Every NFF event burns logistics, labor, and spares budget while leaving the real defect untouched. This article explains why NFF is so prevalent in telecom equipment and how BQR's Synthelyzer attacks the root cause — inadequate test coverage and weak diagnostics — to cut NFF rates and the costs that come with them.`,
+    excerptHe:
+      "תקלה לא נמצאה (NFF) היא אחת הבעיות היקרות והפחות מובנות בתעשיית התקשורת: יחידה מוחזרת מהשטח כ\"תקולה\", נבדקת על שולחן העבודה — ולא נמצאת בה כל תקלה. המאמר מסביר מדוע NFF כה נפוץ בציוד תקשורת וכיצד Synthelyzer של BQR תוקף את שורש הבעיה — כיסוי בדיקות לקוי ואבחון חלש — כדי להפחית את שיעורי ה-NFF ואת העלויות הנלוות.",
+    category: "maintenance-engineering",
+    date: "2026-06-05",
+    readTime: 8,
+    featured: true,
+    content: `No Fault Found (NFF) — also called No Failure Found or No Trouble Found — is one of the most expensive and least understood problems in the telecom industry. A unit is pulled from the field because it "failed", shipped back, tested on the bench, and… nothing is wrong with it. The board passes every test and is returned to stock or back to the customer, only for the symptom to reappear weeks later. Every NFF event burns logistics, labor, and spares budget while leaving the real defect untouched. This article explains why NFF is so prevalent in telecom equipment and how BQR's Synthelyzer attacks the root cause — inadequate test coverage and weak diagnostics — to cut NFF rates and the costs that come with them.
+
+## 1. What Is NFF, Really?
+
+A No Fault Found event occurs whenever a unit reported as faulty in the field cannot be confirmed as faulty during repair-center testing. The terminology varies across the industry — No Fault Found (NFF), No Failure Found, No Trouble Found (NTF), Cannot Duplicate (CND), Re-Test OK (RTOK) — but the situation is always the same: a real-world symptom that the test bench cannot reproduce.
+
+NFF is not a single defect type. It is a *gap* between the conditions a product experiences in the field and the conditions reproduced in the test environment. The unit really did misbehave in the field; the test simply failed to recreate the trigger.
+
+## 2. Why Telecom Is an NFF Hot-Spot
+
+Telecom equipment is unusually prone to NFF for several reasons:
+
+- **Always-on, mixed-signal complexity.** Line cards, base-band boards, RF front-ends, optical transceivers and high-speed backplanes combine dense digital logic with sensitive analog and RF circuitry. Many failure mechanisms are marginal — they appear only at a specific temperature, voltage, load, or traffic pattern.
+- **Field stresses that the bench never sees.** Temperature cycling, humidity, vibration, power-supply transients, EMI, and long-duration traffic load create intermittent faults. A 30-second functional test at room temperature will not reproduce a fault that needs hours of thermal soak.
+- **Intermittent and time-dependent defects.** Cold solder joints, micro-cracks, connector contact degradation, and timing-margin violations come and go. By the time the board reaches the repair center, the condition has relaxed.
+- **System-level vs. board-level interaction.** A board may only fail when combined with a particular shelf, software load, or neighboring card. Tested in isolation, it passes.
+- **Software/firmware confusion.** A reset that clears a software hang is often logged as a hardware failure, pulling a perfectly good board out of service.
+
+The result: industry studies routinely attribute **30–50% of field returns in electronics to NFF**, and in complex telecom gear the figure is often at the high end.
+
+## 3. The Real Cost of NFF
+
+NFF looks "free" because no part is replaced — but it is one of the most expensive line items in after-sales support:
+
+- **Wasted logistics and handling.** Every return is packed, shipped, received, tested, and re-shipped — round-trip transport and warehouse time for a board that was never broken.
+- **Inflated spares inventory.** To cover units "in repair", operators over-provision spares. NFF churn quietly multiplies the spares pool and ties up working capital.
+- **Repeated truck rolls and downtime.** Because the real defect is never fixed, the symptom returns. The same fault is chased two, three, or more times, each with its own field visit and service-level-agreement penalty exposure.
+- **Engineering time.** Skilled technicians spend hours retesting good boards instead of fixing bad ones.
+- **Reputation and SLA risk.** Recurring faults on "repaired" equipment erode customer confidence and trigger penalty clauses.
+
+A useful rule of thumb: the *fully loaded* cost of a single NFF cycle — transport, testing, handling, inventory carrying cost, and the repeat field visit — frequently exceeds the cost of the component that should have been replaced in the first place. Multiply that by tens of thousands of field returns per year and NFF becomes a multi-million-dollar leak.
+
+## 4. The Root Cause: Test Coverage and Diagnostic Gaps
+
+It is tempting to treat NFF as bad luck. It is not. NFF is a *measurable, designed-in* property of the test and diagnostic strategy. Two questions decide a product's NFF rate:
+
+1. **Coverage** — what fraction of credible failure modes can the test actually detect?
+2. **Diagnostic resolution** — when a test does fail, how precisely does it point to the defective component?
+
+If coverage is low, real faults slip through and are sent back as "good" (NFF). If diagnostic resolution is poor, technicians shotgun-replace parts or, worse, find nothing and declare NFF. Both gaps are usually invisible until the product is already in the field — unless you analyze them *up front*, during design and test-program development.
+
+That is exactly what BQR's **Synthelyzer** is built to do.
+
+## 5. How BQR's Synthelyzer Reduces NFF
+
+Synthelyzer is BQR's test-coverage and diagnostics analysis tool. Instead of waiting for field returns to reveal where the test program is blind, it models the board's failure modes and the test program together, and quantifies how well the tests catch and isolate those failures — *before* production and deployment.
+
+Synthelyzer helps cut NFF in several concrete ways:
+
+- **Quantified test coverage.** Synthelyzer computes, failure mode by failure mode, what the combined test suite (ICT, functional test, boundary scan, BIT, system test) actually detects. Coverage holes — the exact modes that produce NFF in the field — are made explicit and measurable instead of being discovered the hard way.
+- **Diagnostic / fault-isolation analysis.** Beyond "did a test fail", Synthelyzer evaluates how precisely a failing result isolates the guilty component. Tightening the ambiguity group means fewer "replace and hope" repairs and fewer good parts swapped out.
+- **Test-program optimization.** It identifies redundant tests that add cost without coverage, and the missing tests that would close the biggest NFF gaps — so test time and equipment are spent where they reduce returns the most.
+- **Design-for-Testability (DfT) feedback.** Because the analysis happens during design, engineers can add test points, BIT, or boundary-scan access to make otherwise-undetectable faults observable — eliminating NFF at the source rather than coping with it later.
+- **A common language for the data.** Coverage and diagnostic metrics give design, test, and field-support teams an objective basis to set targets, justify DfT investment, and track NFF reduction over the product's life.
+
+By closing coverage and diagnostic gaps before deployment, more genuinely faulty units are caught and correctly diagnosed the first time, and fewer good units are needlessly pulled — directly attacking both halves of the NFF problem.
+
+## 6. From Reactive to Predictive
+
+The traditional response to NFF is reactive: collect returns, build Pareto charts, and chase recurring offenders months after launch. Synthelyzer flips this into a predictive, design-time discipline. The coverage and diagnostic weaknesses that *cause* NFF are identified and fixed while changes are still cheap — on the schematic and in the test program — instead of in the field across an installed base of thousands of units.
+
+## 7. Conclusion
+
+In telecom, NFF is not a nuisance — it is a structural cost driver hiding inside warranty, repair, and spares budgets. Because its root cause is inadequate test coverage and weak fault isolation, NFF can be engineered down rather than merely tolerated. BQR's Synthelyzer gives reliability and test engineers the quantitative picture they need to close those gaps before a product ships: higher detection, sharper diagnostics, leaner test programs, and a measurable drop in the field returns that turn out to be "no fault found". The payoff is fewer wasted shipments, smaller spares pools, fewer repeat truck rolls, and a support operation that fixes real faults instead of chasing phantoms — savings that, across a telecom product line, add up fast.
+
+To learn more about BQR Reliability Engineering and its design-for-reliability and testability tools, visit http://www.bqr.com.`,
+    contentHe: `תקלה לא נמצאה (NFF) — המכונה גם No Failure Found או No Trouble Found — היא אחת הבעיות היקרות והפחות מובנות בתעשיית התקשורת. יחידה מוצאת מהשטח כי "כשלה", נשלחת חזרה, נבדקת על שולחן העבודה — ולא נמצא בה דבר. הכרטיס עובר כל בדיקה ומוחזר למלאי או ללקוח, רק כדי שהתסמין יופיע שוב כעבור שבועות. כל אירוע NFF שורף תקציבי לוגיסטיקה, כוח אדם וחלקי חילוף, ובה בעת משאיר את התקלה האמיתית ללא טיפול. מאמר זה מסביר מדוע NFF כה נפוץ בציוד תקשורת וכיצד Synthelyzer של BQR תוקף את שורש הבעיה — כיסוי בדיקות לקוי ואבחון חלש — כדי להפחית את שיעורי ה-NFF ואת העלויות הנלוות אליהם.
+
+## 1. מהי NFF באמת?
+
+אירוע "תקלה לא נמצאה" מתרחש בכל פעם שיחידה שדווחה כתקולה בשטח אינה מאוששת כתקולה במהלך בדיקה במרכז התיקונים. המינוח משתנה בתעשייה — NFF, No Failure Found, No Trouble Found (NTF), Cannot Duplicate (CND), Re-Test OK (RTOK) — אך המצב תמיד זהה: תסמין אמיתי שהתרחש בשטח ושאותו שולחן הבדיקה אינו מצליח לשחזר.
+
+NFF אינה סוג כשל יחיד. זהו *פער* בין התנאים שהמוצר חווה בשטח לבין התנאים המשוחזרים בסביבת הבדיקה. היחידה אכן התנהגה באופן שגוי בשטח; הבדיקה פשוט נכשלה בשחזור הטריגר.
+
+## 2. מדוע התקשורת היא מוקד NFF
+
+ציוד תקשורת רגיש ל-NFF במידה חריגה ממספר סיבות:
+
+- **מורכבות אות-מעורב הפועלת תמיד.** כרטיסי קו, כרטיסי בסיס-פס, מבואות RF, משדרי-קלט אופטיים ולוחות אחוריים מהירים משלבים לוגיקה דיגיטלית צפופה עם מעגלים אנלוגיים ו-RF רגישים. אופני כשל רבים הם שוליים — הם מופיעים רק בטמפרטורה, מתח, עומס או תבנית תעבורה מסוימים.
+- **מאמצי שטח ששולחן הבדיקה אינו רואה.** מחזורי טמפרטורה, לחות, רעידות, מעברי מתח, הפרעות אלקטרומגנטיות ועומס תעבורה ממושך יוצרים תקלות לסירוגין. בדיקה פונקציונלית של 30 שניות בטמפרטורת החדר לא תשחזר תקלה הדורשת שעות של ספיגה תרמית.
+- **תקלות לסירוגין ותלויות-זמן.** הלחמות קרות, סדקים מיקרוסקופיים, הידרדרות מגעי מחברים והפרות שולי תזמון מופיעות ונעלמות. עד שהכרטיס מגיע למרכז התיקונים, המצב כבר נרגע.
+- **אינטראקציה ברמת המערכת מול רמת הכרטיס.** כרטיס עשוי לכשול רק בשילוב עם מדף, גרסת תוכנה או כרטיס שכן מסוים. כשנבדק בבידוד, הוא עובר.
+- **בלבול תוכנה/קושחה.** איפוס המנקה תקיעת תוכנה מתועד פעמים רבות ככשל חומרה, ומוציא כרטיס תקין לחלוטין מכלל שימוש.
+
+התוצאה: מחקרי תעשייה מייחסים באופן שגרתי **30%–50% מהחזרות השטח באלקטרוניקה ל-NFF**, ובציוד תקשורת מורכב הנתון נוטה לקצה העליון.
+
+## 3. העלות האמיתית של NFF
+
+NFF נראית "חינמית" כי לא מוחלף שום חלק — אך היא אחת מסעיפי ההוצאה היקרים בתמיכה שלאחר המכירה:
+
+- **לוגיסטיקה וטיפול מבוזבזים.** כל החזרה נארזת, נשלחת, מתקבלת, נבדקת ונשלחת מחדש — הובלה הלוך-ושוב וזמן מחסן עבור כרטיס שמעולם לא היה תקול.
+- **מלאי חלקי חילוף מנופח.** כדי לכסות יחידות "בתיקון", מפעילים מחזיקים עודף חלקי חילוף. תחלופת ה-NFF מגדילה בשקט את מאגר החלפים וכובלת הון חוזר.
+- **נסיעות שירות חוזרות וזמן השבתה.** מכיוון שהתקלה האמיתית לעולם אינה מתוקנת, התסמין חוזר. אותה תקלה נרדפת פעמיים, שלוש או יותר, כל אחת עם ביקור שטח משלה וחשיפה לקנסות הסכמי רמת שירות.
+- **זמן הנדסי.** טכנאים מיומנים מבלים שעות בבדיקה חוזרת של כרטיסים תקינים במקום לתקן תקולים.
+- **סיכון מוניטין ו-SLA.** תקלות חוזרות בציוד "מתוקן" שוחקות את אמון הלקוח ומפעילות סעיפי קנס.
+
+כלל אצבע שימושי: העלות ה*מלאה* של מחזור NFF יחיד — הובלה, בדיקה, טיפול, עלות החזקת מלאי וביקור השטח החוזר — עולה לעיתים קרובות על עלות הרכיב שהיה צריך להחליף מלכתחילה. הכפילו זאת בעשרות אלפי החזרות שטח בשנה, וה-NFF הופך לדליפה של מיליוני דולרים.
+
+## 4. שורש הבעיה: פערי כיסוי ואבחון
+
+מפתה להתייחס ל-NFF כאל מזל רע. היא אינה כזו. NFF היא תכונה *מדידה ומתוכננת-פנימה* של אסטרטגיית הבדיקה והאבחון. שתי שאלות קובעות את שיעור ה-NFF של מוצר:
+
+1. **כיסוי** — איזה חלק מאופני הכשל הסבירים הבדיקה באמת מסוגלת לזהות?
+2. **רזולוציית אבחון** — כאשר בדיקה אכן נכשלת, באיזו דיוק היא מצביעה על הרכיב התקול?
+
+אם הכיסוי נמוך, תקלות אמיתיות חומקות ומוחזרות כ"תקינות" (NFF). אם רזולוציית האבחון ירודה, טכנאים מחליפים חלקים באופן עיוור או, גרוע מכך, אינם מוצאים דבר ומכריזים על NFF. שני הפערים בדרך כלל בלתי-נראים עד שהמוצר כבר בשטח — אלא אם מנתחים אותם *מראש*, במהלך התכן ופיתוח תוכנית הבדיקה.
+
+זה בדיוק מה ש-**Synthelyzer** של BQR נבנה לעשות.
+
+## 5. כיצד Synthelyzer של BQR מפחית NFF
+
+Synthelyzer הוא כלי BQR לניתוח כיסוי בדיקות ואבחון. במקום להמתין שהחזרות השטח יחשפו היכן תוכנית הבדיקה עיוורת, הוא ממדל יחד את אופני הכשל של הכרטיס ואת תוכנית הבדיקה, ומכמת עד כמה הבדיקות תופסות ומבודדות את הכשלים — *לפני* הייצור והפריסה.
+
+Synthelyzer מסייע לצמצם NFF במספר דרכים מוחשיות:
+
+- **כיסוי בדיקות מכומת.** Synthelyzer מחשב, אופן כשל אחר אופן כשל, מה מערך הבדיקות המשולב (ICT, בדיקה פונקציונלית, boundary scan, BIT, בדיקת מערכת) באמת מזהה. חורי הכיסוי — בדיוק אותם אופנים המייצרים NFF בשטח — הופכים מפורשים ומדידים במקום להתגלות בדרך הקשה.
+- **ניתוח אבחון / בידוד תקלות.** מעבר ל"האם בדיקה נכשלה", Synthelyzer מעריך באיזו דיוק תוצאה כושלת מבודדת את הרכיב האשם. צמצום קבוצת אי-הוודאות פירושו פחות תיקוני "החלף וקווה" ופחות חלקים תקינים שמוחלפים.
+- **אופטימיזציה של תוכנית הבדיקה.** הוא מזהה בדיקות מיותרות המוסיפות עלות ללא כיסוי, ואת הבדיקות החסרות שיסגרו את פערי ה-NFF הגדולים ביותר — כך שזמן הבדיקה והציוד מושקעים היכן שהם מפחיתים את ההחזרות יותר מכול.
+- **משוב Design-for-Testability (DfT).** מכיוון שהניתוח מתבצע במהלך התכן, מהנדסים יכולים להוסיף נקודות בדיקה, BIT או גישת boundary-scan כדי להפוך תקלות בלתי-ניתנות-לזיהוי לנצפות — ובכך לבטל NFF במקור במקום להתמודד עמו מאוחר יותר.
+- **שפה משותפת לנתונים.** מדדי כיסוי ואבחון מעניקים לצוותי התכן, הבדיקה ותמיכת השדה בסיס אובייקטיבי לקביעת יעדים, להצדקת השקעה ב-DfT ולמעקב אחר הפחתת NFF לאורך חיי המוצר.
+
+על ידי סגירת פערי כיסוי ואבחון לפני הפריסה, יותר יחידות תקולות באמת נתפסות ומאובחנות נכון בפעם הראשונה, ופחות יחידות תקינות מוצאות ללא צורך — תקיפה ישירה של שני חלקי בעיית ה-NFF.
+
+## 6. ממגיב לחזוי
+
+התגובה המסורתית ל-NFF היא תגובתית: אוספים החזרות, בונים תרשימי פארטו, ורודפים אחר עבריינים חוזרים חודשים לאחר ההשקה. Synthelyzer הופך זאת לדיסציפלינה חזויה בזמן התכן. חולשות הכיסוי והאבחון ה*גורמות* ל-NFF מזוהות ומתוקנות בעוד השינויים זולים — בסכמה ובתוכנית הבדיקה — במקום בשטח, על פני בסיס מותקן של אלפי יחידות.
+
+## 7. סיכום
+
+בתקשורת, NFF אינה מטרד — היא מניע עלות מבני המסתתר בתוך תקציבי האחריות, התיקונים וחלקי החילוף. מכיוון ששורש הבעיה הוא כיסוי בדיקות לקוי ובידוד תקלות חלש, ניתן להנדס את ה-NFF כלפי מטה במקום רק לסבול אותו. Synthelyzer של BQR מעניק למהנדסי האמינות והבדיקה את התמונה הכמותית הדרושה להם כדי לסגור את הפערים הללו לפני שהמוצר נשלח: זיהוי גבוה יותר, אבחון חד יותר, תוכניות בדיקה רזות יותר, וירידה מדידה בהחזרות השטח המתבררות כ"תקלה לא נמצאה". התמורה היא פחות משלוחים מבוזבזים, מאגרי חלפים קטנים יותר, פחות נסיעות שירות חוזרות, ומערך תמיכה המתקן תקלות אמיתיות במקום לרדוף אחר רוחות רפאים — חיסכון שמצטבר במהירות על פני קו מוצרי תקשורת שלם.
+
+למידע נוסף על BQR הנדסת אמינות וכלי התכן-לאמינות והבדיקתיות שלה, בקרו ב-http://www.bqr.com.`,
+  },
 ];
 
 export function getArticlesByCategory(category: Category): Article[] {
